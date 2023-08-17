@@ -15,7 +15,9 @@ decision_tree = DecisionTreeRegressor()
 decision_tree.fit(x_train,y_train)
 
 predicted = decision_tree.predict(x_test)
-
+plt.figure(figsize=(50,50))
+plot_tree(decision_tree,filled = 'true')
+plt.show()
 plt.scatter(x_test,y_test,color = 'red',label = "Actual")
 plt.scatter(x_test,predicted,color='blue',label = 'predicted')
 plt.legend()
