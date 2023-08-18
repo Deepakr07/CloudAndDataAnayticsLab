@@ -1,0 +1,51 @@
+,Make,Model,Price,Year,Kilometer,Fuel Type,Transmission,Location,Color,Owner,Seller Type,Engine,Max Power,Max Torque,Drivetrain,Length,Width,Height,Seating Capacity,Fuel Tank Capacity
+24,Maruti Suzuki,Alto LXi CNG,370000,2019,47377,CNG,Manual,Delhi,Grey,First,Individual,998 cc,58 bhp @ 6000 rpm,78 Nm @ 3500 rpm,FWD,3545.0,1490.0,1475.0,4.0,60.0
+34,Hyundai,Santro GL (CNG),145000,2009,72000,CNG,Manual,Kanpur,Silver,Second,Individual,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD,3565.0,1525.0,1590.0,5.0,35.0
+91,Maruti Suzuki,Wagon R LXI CNG,415000,2015,42500,CNG,Manual,Mumbai,Brown,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+125,Hyundai,Santro GL (CNG),200000,2013,57000,CNG,Manual,Kanpur,White,First,Individual,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD,3565.0,1525.0,1590.0,5.0,35.0
+240,Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],520000,2019,76000,CNG,Manual,Kanpur,White,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+306,Maruti Suzuki,Wagon R LXI CNG (O),430000,2016,26600,CNG,Manual,Pune,Brown,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+322,Maruti Suzuki,Wagon R LXI CNG,325000,2015,67738,CNG,Manual,Delhi,White,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+379,Hyundai,Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,695000,2020,18000,CNG,Manual,Ghaziabad,Green,First,Individual,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD,3805.0,1680.0,1520.0,5.0,60.0
+414,Maruti Suzuki,S-Presso VXi CNG,610000,2022,3800,CNG,Manual,Delhi,White,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3565.0,1520.0,1564.0,4.0,55.0
+447,Maruti Suzuki,Wagon R LXi CNG,285000,2011,52000,CNG,Manual,Mumbai,Brown,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+467,Maruti Suzuki,Wagon R LXI CNG (O),445000,2015,67580,CNG,Manual,Pune,White,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+486,Maruti Suzuki,Wagon R LXi CNG,315000,2013,72000,CNG,Manual,Mumbai,Brown,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+490,Maruti Suzuki,Wagon R LXI CNG,400000,2016,67850,CNG,Manual,Mumbai,Red,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+516,Maruti Suzuki,Wagon R LXi CNG,280000,2011,54000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+621,Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],550000,2019,48000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+624,Maruti Suzuki,Wagon R LXi (O) 1.0 CNG [2019-2020],525000,2019,50000,CNG,Manual,Delhi,Grey,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+672,Maruti Suzuki,Ertiga VXI CNG,1080000,2021,38000,CNG,Manual,Delhi,White,First,Individual,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4296.0,1695.0,1685.0,7.0,45.0
+783,Maruti Suzuki,Ertiga VXI CNG,800000,2017,76642,CNG,Manual,Mumbai,Silver,First,Individual,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4296.0,1695.0,1685.0,7.0,45.0
+808,Maruti Suzuki,Eeco 5 STR WITH HTR CNG [2018-2019],590000,2021,8640,CNG,Manual,Bhopal,White,First,Individual,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD,3675.0,1475.0,1800.0,5.0,40.0
+820,Maruti Suzuki,Ertiga Vxi CNG,642000,2014,53693,CNG,Manual,Mumbai,Others,First,Individual,1373 cc,82 bhp @ 6000 rpm,110 Nm @ 4000 rpm,FWD,4265.0,1695.0,1685.0,7.0,60.0
+877,Maruti Suzuki,Wagon R LXI CNG (O),310000,2014,82000,CNG,Manual,Lucknow,White,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1010,Hyundai,Santro GL (CNG),275000,2013,76000,CNG,Manual,Delhi,White,First,Individual,1086 cc,62 bhp @ 5500 rpm,96 Nm @ 3000 rpm,FWD,3565.0,1525.0,1590.0,5.0,35.0
+1038,Maruti Suzuki,Alto LXi CNG,155000,2009,56852,CNG,Manual,Kanpur,Gold,Second,Individual,796 cc,39 bhp @ 6200 rpm,54 Nm @ 3000 rpm,FWD,3495.0,1475.0,1460.0,5.0,35.0
+1058,Maruti Suzuki,Wagon R LXI CNG,310000,2015,67738,CNG,Manual,Delhi,White,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1111,Maruti Suzuki,Eeco 5 STR WITH A/C+HTR CNG [2017-2019],645000,2021,1374,CNG,Manual,Mumbai,Grey,First,Individual,1196 cc,73 bhp @ 6000 rpm,101 Nm @ 3000 rpm,RWD,3675.0,1475.0,1800.0,5.0,40.0
+1224,Maruti Suzuki,Wagon R LXI CNG,375000,2015,64000,CNG,Manual,Mumbai,Silver,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1249,Hyundai,Santro Sportz CNG [2018-2020],545000,2019,43000,CNG,Manual,Mumbai,Silver,First,Individual,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD,3610.0,1645.0,1560.0,5.0,60.0
+1253,Maruti Suzuki,Wagon R LXi 1.0 CNG [2019-2020],575000,2019,31000,CNG,Manual,Delhi,Grey,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+1317,Hyundai,Santro Sportz CNG [2018-2020],495000,2019,46000,CNG,Manual,Agra,Silver,First,Individual,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD,3610.0,1645.0,1560.0,5.0,60.0
+1326,Maruti Suzuki,Alto 800 Lx CNG,299000,2017,45000,CNG,Manual,Pune,Silver,First,Individual,796 cc,48 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1372,Maruti Suzuki,Alto 800 Lxi CNG,265000,2017,30000,CNG,Manual,Kanpur,White,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1399,Hyundai,Santro Sportz CNG [2018-2020],465000,2019,28000,CNG,Manual,Delhi,White,First,Individual,1086 cc,58 bhp @ 5500 rpm,84 Nm @ 4500 rpm,FWD,3610.0,1645.0,1560.0,5.0,60.0
+1405,Maruti Suzuki,Alto LXi CNG [2014-2018],330000,2017,63200,CNG,Manual,Pimpri-Chinchwad,Grey,First,Individual,998 cc,58 bhp @ 6000 rpm,78 Nm @ 3500 rpm,FWD,3545.0,1490.0,1475.0,4.0,60.0
+1425,Maruti Suzuki,Alto 800 Lxi CNG,245000,2015,72000,CNG,Manual,Faridabad,Silver,Second,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1463,Maruti Suzuki,Wagon R LXi CNG,225000,2012,57000,CNG,Manual,Delhi,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1504,Hyundai,Grand i10 NIOS Sportz 1.2 Kappa VTVT CNG,725000,2021,45000,CNG,Manual,Ludhiana,Grey,First,Individual,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD,3805.0,1680.0,1520.0,5.0,60.0
+1505,Maruti Suzuki,Alto LXi CNG,155000,2011,90342,CNG,Manual,Ambala Cantt,White,Second,Individual,796 cc,39 bhp @ 6200 rpm,54 Nm @ 3000 rpm,FWD,3495.0,1475.0,1460.0,5.0,35.0
+1645,Maruti Suzuki,Wagon R LXI CNG (O),380000,2018,68320,CNG,Manual,Faridabad,Silver,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1668,Maruti Suzuki,Wagon R LXI CNG (O),299000,2015,92000,CNG,Manual,Mumbai,Brown,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1675,Hyundai,Aura S 1.2 CNG,740000,2020,39000,CNG,Manual,Mumbai,Silver,First,Individual,1197 cc,68 bhp @ 6000 rpm,95 Nm @ 4000 rpm,FWD,3995.0,1680.0,1520.0,5.0,65.0
+1875,Maruti Suzuki,Alto 800 Lxi CNG,289000,2015,78000,CNG,Manual,Mumbai,White,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1901,Maruti Suzuki,Alto 800 Lxi CNG,480000,2021,14000,CNG,Manual,Mohali,Grey,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1929,Maruti Suzuki,Alto 800 Lxi CNG,390000,2019,56000,CNG,Manual,Ahmedabad,White,First,Individual,796 cc,47 bhp @ 6000 rpm,69 Nm @ 3500 rpm,FWD,3395.0,1490.0,1475.0,5.0,35.0
+1934,Maruti Suzuki,Wagon R LXI CNG (O),325000,2014,58000,CNG,Manual,Delhi,Red,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1941,Maruti Suzuki,Wagon R LXI CNG (O),625000,2021,18000,CNG,Manual,Delhi,Silver,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+1951,Maruti Suzuki,Ertiga VXI CNG,1025000,2019,42000,CNG,Manual,Delhi,Brown,First,Individual,1373 cc,94 bhp @ 6000 rpm,130 Nm @ 4000 rpm,FWD,4296.0,1695.0,1685.0,7.0,45.0
+1986,Maruti Suzuki,Wagon R LXi 1.0 CNG,675000,2021,15000,CNG,Manual,Pune,White,First,Individual,998 cc,58 bhp @ 5500 rpm,78 Nm @ 3500 rpm,FWD,3655.0,1620.0,1675.0,5.0,60.0
+1989,Maruti Suzuki,Wagon R LXi CNG,260000,2013,89000,CNG,Manual,Lucknow,Silver,First,Individual,998 cc,59@6200,77@3500,,3539.0,1475.0,1700.0,5.0,35.0
+1990,Maruti Suzuki,Wagon R LXI CNG,400000,2017,43000,CNG,Manual,Agra,Grey,First,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0
+2045,Maruti Suzuki,Wagon R LXI CNG (O),365000,2014,75693,CNG,Manual,Pune,Grey,Second,Individual,998 cc,58 bhp @ 6200 rpm,77 Nm @ 3500 rpm,FWD,3599.0,1495.0,1700.0,5.0,35.0

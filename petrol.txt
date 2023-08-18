@@ -1,0 +1,943 @@
+	Make	Model	Price	Year	Kilometer	Fuel Type	Transmission	Location	Color	Owner	Seller Type	Engine	Max Power	Max Torque	Drivetrain	Length	Width	Height	Seating Capacity	Fuel Tank Capacity
+0	Honda	Amaze 1.2 VX i-VTEC	505000	2017	87150	Petrol	Manual	Pune	Grey	First	Corporate	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+2	Hyundai	i10 Magna 1.2 Kappa2	220000	2011	67000	Petrol	Manual	Lucknow	Maroon	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+3	Toyota	Glanza G	799000	2019	37500	Petrol	Manual	Mangalore	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+5	Maruti Suzuki	Ciaz ZXi	675000	2017	73315	Petrol	Manual	Pune	Grey	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+6	Mercedes-Benz	CLA 200 Petrol Sport	1898999	2015	47000	Petrol	Automatic	Mumbai	White	Second	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	FWD	4630.0	1777.0	1432.0	5.0	
+8	Skoda	Octavia 1.8 TSI Style Plus AT [2017]	1390000	2017	56000	Petrol	Automatic	Mumbai	White	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4670.0	1814.0	1476.0	5.0	50.0
+10	Hyundai	Elite i20 Sportz 1.2	591000	2017	20281	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+11	Renault	Kwid 1.0 RXT [2016-2019]	459999	2018	22541	Petrol	Manual	Bangalore	Grey	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+12	Maruti Suzuki	Ciaz Alpha Hybrid 1.5 AT [2018-2020]	1075000	2019	30672	Petrol	Automatic	Bangalore	Blue	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+14	Volkswagen	Polo GT TSI	944999	2017	41417	Petrol	Automatic	Bangalore	Grey	First	Individual	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+15	Maruti Suzuki	Celerio ZXi AMT [2019-2020]	569000	2016	11471	Petrol	Automatic	Bangalore	Red	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+16	Maruti Suzuki	Alto 800 LXi (O)	449000	2019	3583	Petrol	Manual	Bangalore	Grey	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3445.0	1515.0	1475.0	5.0	35.0
+17	Maruti Suzuki	Baleno Alpha Automatic	894999	2018	21365	Petrol	Automatic	Bangalore	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+18	Maruti Suzuki	Wagon R ZXi 1.2 AMT	699000	2020	30777	Petrol	Automatic	Bangalore	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3655.0	1620.0	1675.0	5.0	32.0
+19	Hyundai	Creta 1.6 E Petrol	740000	2016	60125	Petrol	Manual	Delhi	Silver	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+20	Maruti Suzuki	S-Presso VXi AMT	470000	2020	2169	Petrol	Automatic	Mumbai	Grey	First	Individual	998 cc	67 bhp @ 5500 rpm	90 Nm @ 3500 rpm	FWD	3565.0	1520.0	1564.0	5.0	27.0
+21	Volkswagen	Vento Comfortline Petrol AT	765000	2015	60240	Petrol	Automatic	Bangalore	Brown	First	Individual	1197 cc	103 bhp @ 5000 rpm	153 Nm @ 3800 rpm	FWD	4384.0	1699.0	1466.0	5.0	55.0
+22	Hyundai	Santro Sportz AMT [2018-2020]	589000	2018	13772	Petrol	Automatic	Bangalore	White	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+23	Hyundai	Venue SX 1.0 (O) Petrol [2019-2020]	999000	2019	27464	Petrol	Manual	Bangalore	Blue	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+25	Maruti Suzuki	Ritz Zxi BS-IV	325000	2013	23086	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	85 bhp @ 6000 rpm	113 Nm @ 4500 rpm	FWD	3775.0	1680.0	1620.0	5.0	43.0
+26	Hyundai	Creta 1.6 SX Plus Petrol	1175000	2019	36313	Petrol	Manual	Mumbai	Grey	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+27	Honda	Brio V MT	351000	2014	39276	Petrol	Manual	Mumbai	Red	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+28	Hyundai	Elite i20 Asta 1.2	551000	2015	47752	Petrol	Manual	Mumbai	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+29	Honda	WR-V VX MT Petrol	819999	2018	27963	Petrol	Manual	Delhi	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+30	Hyundai	Venue SX 1.0 Turbo iMT	990000	2020	24013	Petrol	Manual	Mumbai	Blue	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+32	Ford	Ecosport Titanium+ 1.0L EcoBoost	535000	2015	28000	Petrol	Manual	Mumbai	Silver	First	Individual	999 cc	124 bhp @ 6000 rpm	170 Nm @ 1400 rpm	FWD	3999.0	1765.0	1708.0	5.0	52.0
+33	Honda	CR-V 2.4 AT	860000	2013	67000	Petrol	Automatic	Mumbai	Brown	First	Individual									
+35	Tata	Tiago Revotron XE [2016-2019]	409000	2018	27069	Petrol	Manual	Mumbai	White	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+41	Toyota	Corolla Altis VL AT Petrol	1095000	2016	45000	Petrol	Automatic	Mumbai	Black	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+43	Mercedes-Benz	SLK-Class SLK 200 K	2400000	2010	34105	Petrol	Automatic	Mumbai	Grey	First	Individual	1796 cc	165@5500	240@3000	RWD	4082.0	1777.0	1297.0	2.0	70.0
+44	Hyundai	Elite i20 Asta 1.2	525000	2015	68397	Petrol	Manual	Patna	Gold	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+46	Maruti Suzuki	Baleno Delta 1.2	605000	2019	27469	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+47	Maruti Suzuki	Celerio VXi AMT	412000	2016	41058	Petrol	Automatic	Delhi	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+49	Maruti Suzuki	Ciaz VXi	511000	2015	45969	Petrol	Manual	Mumbai	Silver	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+51	Hyundai	Creta SX Plus 1.6  Petrol	885000	2016	57983	Petrol	Manual	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+52	Renault	Kwid 1.0 RXT AMT Opt	470000	2019	11183	Petrol	Automatic	Mumbai	Silver	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+54	Tata	Tiago Revotron XZA [2017-2019]	475000	2017	34867	Petrol	Automatic	Mumbai	Silver	Second	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+59	Honda	Brio S MT	440000	2016	50374	Petrol	Manual	Vadodara	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+60	BMW	3-Series 320i Luxury Line	2800000	2017	15900	Petrol	Automatic	Delhi	White	First	Individual	1998 cc	181 bhp @ 5000 rpm	270 Nm @ 1350 rpm	RWD	4633.0	1811.0	1429.0	5.0	57.0
+61	Honda	City V Petrol [2017-2019]	645000	2017	64000	Petrol	Manual	Mumbai	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+63	Maruti Suzuki	Vitara Brezza ZXi Plus	1044999	2021	24000	Petrol	Manual	Mumbai	Silver	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	3995.0	1790.0	1640.0	5.0	48.0
+64	Maruti Suzuki	Eeco 7 STR [2019-2020]	515000	2019	40310	Petrol	Manual	Pune	Grey	Second	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	7.0	40.0
+65	Hyundai	Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016]	455000	2015	69700	Petrol	Automatic	Mumbai	Blue	First	Individual	1197 cc	79 bhp @ 6000 rpm	112 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+68	Honda	Civic 1.8S MT	190000	2006	130000	Petrol	Manual	Deoghar	Maroon	Third	Individual	1799 cc	130 bhp @ 6300 rpm	171.62 Nm @ 4300 rpm	FWD	4545.0	1750.0	1450.0	5.0	50.0
+70	Maruti Suzuki	Swift ZXi Plus AMT	775000	2021	24000	Petrol	Automatic	Agra	Grey	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3845.0	1735.0	1530.0	5.0	37.0
+73	Honda	City V CVT Petrol [2017-2019]	865000	2017	49013	Petrol	Automatic	Mumbai	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+75	Honda	Jazz VX Petrol	570000	2017	92270	Petrol	Manual	Mumbai	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+76	Volkswagen	Polo Highline1.2L (P)	385000	2013	65000	Petrol	Manual	Mumbai	White	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+78	Toyota	Camry 2.5L AT	2345000	2017	47000	Petrol	Automatic	Delhi	Brown	First	Individual	2494 cc	179 bhp @ 6000 rpm	233 Nm @ 4100 rpm	FWD	4825.0	1825.0	1480.0	5.0	70.0
+79	Mahindra	Thar LX 4-STR Hard Top Petrol AT	1650000	2022	10000	Petrol	Automatic	Jalandhar	Black	First	Individual	1997 cc	150 bhp @ 5000 rpm	320 Nm @ 1500 rpm	AWD	3985.0	1820.0	1844.0	4.0	57.0
+82	Maruti Suzuki	Baleno Sigma 1.2	545000	2017	61518	Petrol	Manual	Noida	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+84	Maruti Suzuki	Baleno Zeta 1.2	615000	2017	36058	Petrol	Manual	Mumbai	Silver	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+86	Volkswagen	Vento Comfortline Petrol	430000	2015	98112	Petrol	Manual	Mumbai	Brown	First	Individual	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4384.0	1699.0	1466.0	5.0	55.0
+88	Toyota	Camry Hybrid	1599000	2015	92355	Petrol	Automatic	Mumbai	Silver	First	Individual	2494 cc	202 bhp @ 5700 rpm	270 Nm @ 4500 rpm	FWD	4825.0	1825.0	1480.0	5.0	65.0
+89	Maruti Suzuki	DZire VXi	691000	2019	16652	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+95	Porsche	Cayenne Coupe Platinum Edition	16200000	2022	2766	Petrol	Automatic	Mumbai	Blue	First	Individual	2995 cc	335 bhp @ 5300 rpm	450 Nm @ 1340 rpm	AWD	4931.0	1983.0	1676.0	4.0	75.0
+96	Mercedes-Benz	C-Class Cabriolet C 300	5100000	2017	56000	Petrol	Automatic	Ghaziabad	White	Second	Individual	1991 cc	241 bhp @ 5500 rpm	370 Nm @ 1300 rpm	RWD	4686.0	1810.0	1409.0	4.0	59.0
+97	Hyundai	Elite i20 Magna 1.2	525000	2015	68766	Petrol	Manual	Mumbai	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+98	Hyundai	Verna 1.6 VTVT SX	750000	2018	16339	Petrol	Manual	Kolkata	Black	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4375.0	1700.0	1475.0	5.0	43.0
+99	Honda	Amaze 1.2 SX i-VTEC	445000	2016	63882	Petrol	Manual	Mumbai	Bronze	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+100	Toyota	Corolla Altis 1.8 G	493000	2012	28732	Petrol	Manual	Zirakpur	Silver	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4540.0	1760.0	1480.0	5.0	55.0
+101	Hyundai	Elite i20 Sportz 1.2 (O)	611000	2017	51349	Petrol	Manual	Nagpur	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+102	Hyundai	Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016]	475000	2014	61866	Petrol	Automatic	Thane	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+103	Hyundai	Creta SX Plus 1.6  Petrol	925000	2017	29401	Petrol	Manual	Mumbai	Grey	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+108	Honda	Brio S MT	229000	2013	38175	Petrol	Manual	Kolkata	Blue	First	Individual									
+109	Mahindra	Thar LX 4-STR Hard Top Petrol MT	1575000	2021	8519	Petrol	Manual	Mumbai	Blue	First	Individual	1997 cc	150 bhp @ 5000 rpm	300 Nm @ 1250 rpm	AWD	3985.0	1820.0	1844.0	4.0	57.0
+110	Honda	City 1.5 S MT	375000	2011	78000	Petrol	Manual	Pune	Bronze	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+114	Skoda	Rapid Ambition 1.6 MPI AT Plus	425000	2014	24000	Petrol	Automatic	Mumbai	Beige	Second	Individual	1598 cc	104 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4386.0	1699.0	1466.0	5.0	55.0
+115	Maruti Suzuki	Alto 800 Lxi	250000	2015	62000	Petrol	Manual	Kanpur	Maroon	Second	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+121	Hyundai	Elite i20 Asta (O) 1.0 Turbo DCT	1245000	2021	10530	Petrol	Automatic	Bangalore	Red	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+122	Hyundai	Elite i20 Asta 1.2	549000	2015	61900	Petrol	Manual	Gurgaon	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+124	Maruti Suzuki	Swift DZire VXI	415000	2014	57402	Petrol	Manual	Delhi	Grey	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+126	Hyundai	Grand i10 Sportz 1.2 Kappa VTVT [2013-2016]	375000	2015	87500	Petrol	Manual	Gurgaon	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+128	Hyundai	Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022]	1875000	2022	18000	Petrol	Automatic	Delhi	Black	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+129	Audi	Q2 Premium Plus I 40 TFSI quattro	2950000	2020	10700	Petrol	Automatic	Ahmedabad	White	First	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1500 rpm	AWD	4318.0	1805.0	1548.0	5.0	55.0
+131	Hyundai	Elite i20 Asta (O) 1.0 Turbo DCT	1050000	2020	16282	Petrol	Automatic	Pune	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+133	Maruti Suzuki	Wagon R VXI	345000	2017	72019	Petrol	Manual	Ranchi	Silver	Second	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+136	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	484999	2018	55221	Petrol	Manual	Mumbai	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+138	Maruti Suzuki	Ritz VXI BS-IV	210000	2011	58888	Petrol	Manual	Delhi	Maroon	Second	Individual									
+139	Audi	Q5 45 TFSI Premium Plus	5651000	2022	1	Petrol	Automatic	Delhi	Blue	UnRegistered Car	Individual	1984 cc	248 bhp @ 5000 rpm	370 Nm @ 1600 rpm	AWD	4663.0	1898.0	1659.0	5.0	70.0
+140	Renault	Duster RXS 1.5 Petrol MT	890000	2020	23500	Petrol	Manual	Chennai	White	First	Individual	1498 cc	105 bhp @ 5600 rpm	142 Nm @ 4000 rpm	FWD	4360.0	1822.0	1695.0	5.0	50.0
+141	Maruti Suzuki	Swift DZire VXI	325000	2012	68000	Petrol	Manual	Kanpur	White	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+142	Hyundai	Creta SX 1.6 AT Petrol	1390000	2019	29096	Petrol	Automatic	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+143	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	459999	2016	61223	Petrol	Manual	Kanpur	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+146	Hyundai	i20 Magna 1.2	385000	2013	79287	Petrol	Manual	Kanpur	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	113.796 Nm @ 4000 rpm	FWD	3995.0	1710.0	1505.0	5.0	45.0
+151	Maruti Suzuki	Baleno Alpha 1.2	655000	2016	38779	Petrol	Manual	Mumbai	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+154	Hyundai	Verna Fluidic 1.6 VTVT SX	699000	2017	67000	Petrol	Manual	Navi Mumbai	White	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+159	Hyundai	Xcent S 1.2 (O)	490000	2015	23103	Petrol	Manual	Udupi	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1660.0	1520.0	5.0	43.0
+160	Mercedes-Benz	S-Class Maybach S 500	11500000	2016	27000	Petrol	Automatic	Delhi	Blue	First	Individual	4663 cc	453 bhp @ 5250 rpm	700 Nm @ 1800 rpm	RWD	5453.0	1899.0	1498.0	4.0	70.0
+161	Hyundai	Creta SX 1.6 AT Petrol	1475000	2019	9576	Petrol	Automatic	Bangalore	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+162	MG	Hector Sharp 1.5 DCT Petrol [2019-2020]	1729000	2020	27000	Petrol	Automatic	Panvel	Silver	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm		4655.0	1835.0	1760.0	5.0	60.0
+163	MG	Astor Sharp 1.5 CVT	1764999	2021	1942	Petrol	Automatic	Bangalore	Red	First	Individual	1498 cc	108 bhp @ 6000 rpm	144 Nm @ 4400 rpm	FWD	4323.0	1809.0	1650.0	5.0	48.0
+164	Honda	CR-V 2.4 AT	250000	2006	119300	Petrol	Automatic	Pune	Black	Third	Individual	2354 cc	152@6000	215@3600	AWD	4630.0	1780.0	1710.0	5.0	58.0
+165	Maruti Suzuki	Alto 800 Lxi	245000	2016	55000	Petrol	Manual	Faridabad	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+167	Hyundai	Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018]	550000	2017	61400	Petrol	Manual	Aurangabad	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+168	Honda	City V	675000	2016	87693	Petrol	Manual	Pune	Red	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+169	Mercedes-Benz	C-Class C 200 Avantgarde	2225000	2015	31000	Petrol	Automatic	Mumbai	Blue	First	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+171	Skoda	Fabia Elegance 1.6 MPI	225000	2012	69000	Petrol	Manual	Mumbai	Silver	First	Individual	1598 cc	105 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4000.0	1642.0	1522.0	5.0	45.0
+173	Kia	Sonet GTX Plus 1.0 DCT [2020-2021]	1055000	2020	15000	Petrol	Automatic	Kolkata	Gold	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1790.0	1647.0	5.0	45.0
+177	Maruti Suzuki	Wagon R VXi	350000	2013	45000	Petrol	Manual	Pune	White	First	Individual	998 cc	68@6200	90@3500		3539.0	1495.0	1700.0	5.0	35.0
+182	Hyundai	Elite i20 Magna 1.2	575000	2015	67000	Petrol	Manual	Hyderabad	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+186	Maruti Suzuki	S-Presso VXi	430000	2020	5790	Petrol	Manual	Hyderabad	Silver	First	Individual	998 cc	67 bhp @ 5500 rpm	90 Nm @ 3500 rpm	FWD	3565.0	1520.0	1564.0	5.0	27.0
+191	Honda	City VX (O) MT	975000	2019	56881	Petrol	Manual	Lucknow	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+201	Honda	City 1.5 S AT	295000	2009	70200	Petrol	Automatic	Mumbai	Grey	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+202	Mercedes-Benz	C-Class 200 CGI	1300000	2012	64800	Petrol	Automatic	Delhi	Silver	First	Individual	1796 cc	186 bhp @ 5600 rpm	285 Nm @ 4000 rpm	RWD	4596.0	1770.0	1447.0	5.0	66.0
+206	Maruti Suzuki	Alto 800 Lxi	286000	2017	40564	Petrol	Manual	Jamshedpur	Silver	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+208	Skoda	Rapid Style AT	1125000	2020	46807	Petrol	Automatic	Bangalore	Red	First	Individual	999 cc	109 bhp @ 5000 rpm	175 Nm @ 1750 rpm	FWD	4413.0	1699.0	1466.0	5.0	55.0
+209	Tata	Nexon XMA Petrol	580000	2018	81000	Petrol	Automatic	Valsad	Red	First	Individual	1198 cc	108 bhp @ 5000 rpm	170 Nm @ 1750 rpm	FWD	3994.0	1811.0	1607.0	5.0	44.0
+210	Maruti Suzuki	Swift DZire VXI	495000	2015	13716	Petrol	Manual	Pune	Silver	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+213	Skoda	Rapid Monte Carlo 1.6 MPI MT	885000	2018	38000	Petrol	Manual	Bangalore	Red	First	Individual	1598 cc	104 bhp @ 5200 rpm	153 Nm @ 3750 rpm	FWD	4413.0	1699.0	1466.0	5.0	55.0
+214	Audi	RS5 4.2 Coupe	3650000	2012	25500	Petrol	Automatic	Mumbai	Blue	Second	Corporate	4163 cc	444 bhp @ 8250 rpm	430 Nm @ 4000 rpm	AWD	4649.0	1860.0	1366.0	5.0	64.0
+215	Hyundai	Grand i10 NIOS Magna AMT 1.2 Kappa VTVT	715000	2020	17000	Petrol	Automatic	Bangalore	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+216	Mercedes-Benz	R-Class R350 4MATIC	2485000	2012	44724	Petrol	Automatic	Bangalore	White	First	Individual	3496 cc	272 bhp @ 6000 rpm	350 Nm @ 5000 rpm	AWD	5157.0	2183.0	1659.0	7.0	80.0
+220	Honda	City 1.5 S MT	295000	2010	78000	Petrol	Manual	Zirakpur	White	First	Corporate	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+221	Renault	Kwid RXT Opt	375000	2019	55000	Petrol	Manual	Varanasi	Silver	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+222	Audi	A6 2.0 TFSi Technology Pack	7200000	2021	20000	Petrol	Automatic	Bangalore	White	UnRegistered Car	Individual	1984 cc	180 bhp @ 4000 rpm	320 Nm @ 1500 rpm	FWD	4915.0	1874.0	1455.0	5.0	75.0
+226	Honda	Brio EX MT	325000	2014	43037	Petrol	Manual	Haldwani	Silver	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+230	Honda	Amaze VX CVT 1.2 Petrol	869000	2021	8700	Petrol	Automatic	Mangalore	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+235	Porsche	Cayenne Turbo	3500000	2014	160000	Petrol	Automatic	Mumbai	Blue	First	Individual	4806 cc	500 bhp @ 6500 rpm	700 Nm @ 2250 rpm	AWD	4846.0	1939.0	1702.0	5.0	100.0
+241	Maruti Suzuki	Alto VXi (O)	390000	2018	18000	Petrol	Manual	Lucknow	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+242	Maruti Suzuki	Ciaz VXi (O)	540000	2015	38000	Petrol	Manual	Mumbai	Gold	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+245	Mercedes-Benz	C-Class C 43 AMG	7500000	2021	13000	Petrol	Automatic	Delhi	Red	First	Individual	2996 cc	362 bhp @ 5500 rpm	520 Nm @ 2000 rpm	RWD	4702.0	1810.0	1434.0	4.0	66.0
+247	Tata	Nexon XZA Plus Petrol	1085000	2018	8922	Petrol	Automatic	Bangalore	Red	First	Individual	1198 cc	108 bhp @ 5000 rpm	170 Nm @ 1750 rpm	FWD	3994.0	1811.0	1607.0	5.0	44.0
+248	Maruti Suzuki	Alto 800 Vxi	319000	2013	47800	Petrol	Manual	Dharwad	Red	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+252	Tata	Punch Creative iRA Pack MT	890000	2022	7500	Petrol	Manual	Mumbai	White	First	Individual	1199 cc	84 bhp @ 6000 rpm	113 Nm @ 3300 rpm	FWD	3827.0	1742.0	1615.0	5.0	37.0
+253	Maruti Suzuki	Wagon R VXi	235000	2012	37000	Petrol	Manual	Mumbai	Brown	Second	Individual	998 cc	68@6200	90@3500		3539.0	1495.0	1700.0	5.0	35.0
+254	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2017-2020]	445000	2016	22402	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+255	Honda	City V	1060000	2019	12382	Petrol	Manual	Pune	Maroon	First	Corporate	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+259	Land Rover	Range Rover Sport SE 2.0 Petrol	12500000	2022	22010	Petrol	Automatic	Mohali	White	First	Individual	1997 cc	296 bhp @ 5500 rpm	400 Nm @ 1500 rpm	AWD	4879.0	2073.0	1803.0	5.0	104.0
+261	Renault	Kwid 1.0 RXT Edition	395000	2018	75500	Petrol	Manual	Raipur	Blue	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+264	Maruti Suzuki	Wagon R LXi Minor	145000	2009	39586	Petrol	Manual	Ranchi	Red	First	Individual	1061 cc	67@6200	84@3500	FWD	3520.0	1475.0	1690.0	5.0	35.0
+265	Hyundai	Elite i20 Asta 1.2 AT	750000	2018	33647	Petrol	Automatic	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	40.0
+268	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	569000	2018	57847	Petrol	Manual	Bangalore	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+269	Maruti Suzuki	Swift DZire VXI	470000	2016	74000	Petrol	Manual	Ranchi	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+272	Renault	Kwid 1.0 RXT [2016-2019]	299000	2016	26000	Petrol	Manual	Mumbai	Brown	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+273	Hyundai	Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022]	1875000	2020	18000	Petrol	Automatic	Mumbai	Black	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+277	Toyota	Glanza G CVT	790000	2019	25000	Petrol	Automatic	Delhi	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+278	Hyundai	Creta 1.6 SX Plus AT Petrol	1095000	2017	39000	Petrol	Automatic	Hyderabad	Red	Second	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+280	Volkswagen	Polo GT TSI	525000	2015	80852	Petrol	Automatic	Faridabad	Grey	Second	Individual	1198 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+282	Maruti Suzuki	Alto VXi	270000	2014	54420	Petrol	Manual	Jamshedpur	Silver	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+283	Toyota	Corolla Altis G AT Petrol	894999	2015	39780	Petrol	Automatic	Mumbai	White	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+284	Hyundai	i10 Sportz 1.2 AT Kappa2	335000	2013	78301	Petrol	Automatic	Pune	Grey	Second	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+286	Hyundai	i10 Sportz 1.2	220000	2009	126535	Petrol	Manual	Hyderabad	Gold	First	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+287	Hyundai	Creta 1.6 SX Plus AT Petrol	960000	2016	37079	Petrol	Automatic	Thane	Red	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+290	Volkswagen	Polo Comfortline 1.2L (P)	375000	2013	39000	Petrol	Manual	Delhi	Red	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+291	Maruti Suzuki	Ritz VXI BS-IV	300000	2011	90000	Petrol	Manual	Pune	White	Second	Individual									
+295	Maruti Suzuki	Alto LXi BS-III	189000	2008	19759	Petrol	Manual	Chennai	Blue	First	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+297	Hyundai	Verna Fluidic 1.6 VTVT SX Opt	545000	2014	56000	Petrol	Manual	Noida	Red	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+298	Hyundai	Venue SX 1.0 Turbo iMT	1085000	2022	3383	Petrol	Manual	Mumbai	Blue	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+301	Honda	WR-V VX MT Petrol	900000	2019	17000	Petrol	Manual	Ahmedabad	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+305	Porsche	911 Carrera 4	9300000	2019	9000	Petrol	Automatic	Pune	Blue	First	Corporate	3436 cc	325 bhp @ 7400 rpm	390 Nm @ 5600 rpm	AWD	4491.0	1852.0	1304.0	4.0	68.0
+308	Hyundai	Tucson GL 2WD AT Petrol	1595000	2017	86000	Petrol	Automatic	Bangalore	Blue	First	Individual	1999 cc	153 bhp @ 6200 rpm	192 Nm @ 4000 rpm	FWD	4475.0	1850.0	1660.0	5.0	62.0
+310	Hyundai	i20 Sportz 1.2	375000	2013	29135	Petrol	Manual	Panchkula	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	113 Nm @ 4000 rpm	FWD	3995.0	1710.0	1505.0	5.0	45.0
+313	Mercedes-Benz	C-Class C 200 Avantgarde	2675000	2016	28000	Petrol	Automatic	Gurgaon	Silver	First	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+314	Honda	Jazz V AT Petrol	545000	2015	42000	Petrol	Automatic	Delhi	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+316	Honda	Jazz S	195000	2010	32000	Petrol	Manual	Gurgaon	Silver	First	Individual	1198 cc	89 bhp @ 6200 rpm	110 Nm @ 4800 rpm	FWD	3900.0	1695.0	1535.0	5.0	42.0
+321	Volkswagen	Polo GT TSI	1095000	2020	43260	Petrol	Automatic	Bangalore	Red	First	Individual	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+325	Maruti Suzuki	Swift VXi	745000	2021	14722	Petrol	Manual	Bangalore	White	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3845.0	1735.0	1530.0	5.0	37.0
+327	Jeep	Compass Limited (O) 1.4 Petrol AT [2017-2020]	1250000	2017	60200	Petrol	Automatic	Thane	White	First	Corporate	1368 cc	160 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4395.0	1818.0	1640.0	5.0	60.0
+329	Honda	WR-V S MT Petrol	625000	2017	23798	Petrol	Manual	Ahmedabad	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+330	Honda	City 1.5 S MT	250000	2011	55000	Petrol	Manual	Kolkata	Silver	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+331	Volkswagen	Vento TSI	650000	2017	51000	Petrol	Automatic	Rohtak	White	First	Individual	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	4384.0	1699.0	1466.0	5.0	55.0
+332	Honda	Brio S MT	310000	2014	49000	Petrol	Manual	Delhi	Brown	Second	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+333	Renault	Duster RXL Petrol	600000	2017	48000	Petrol	Manual	Mumbai	Black	First	Individual	1498 cc	105 bhp @ 5600 rpm	142 Nm @ 4000 rpm	FWD	4315.0	1822.0	1695.0	5.0	50.0
+337	BMW	5-Series 530i Sport Line	4250000	2018	32000	Petrol	Automatic	Mumbai	Blue	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	RWD	4936.0	1868.0	1479.0	5.0	57.0
+340	Kia	Seltos GTX Plus AT 1.4 [2019-2020]	1625000	2021	16000	Petrol	Automatic	Kolkata	Red	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+344	Hyundai	Grand i10 NIOS Magna 1.2 Kappa VTVT	590000	2020	74000	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+346	Toyota	Corolla Altis 1.8 G	725000	2014	104814	Petrol	Manual	Mumbai	Grey	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4540.0	1760.0	1480.0	5.0	55.0
+347	Hyundai	Elantra 1.8 SX MT	645000	2013	17000	Petrol	Manual	Pune	White	First	Individual	1797 cc	147 bhp @ 6500 rpm	177 Nm @ 4700 rpm	FWD	4530.0	1775.0	1470.0	5.0	56.0
+349	Maruti Suzuki	Swift Lxi (O) [2014-2017]	450000	2016	45000	Petrol	Manual	Delhi	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+351	Mahindra	Thar AX 4-STR Convertible Petrol MT	1700000	2021	3813	Petrol	Manual	Chennai	Red	First	Individual	1997 cc	150 bhp @ 5000 rpm	300 Nm @ 1250 rpm	AWD	3985.0	1820.0	1855.0	4.0	57.0
+352	Maruti Suzuki	Swift VXi [2014-2017]	525000	2016	64928	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+357	Maruti Suzuki	Wagon R VXI+	535000	2020	4295	Petrol	Manual	Samastipur	Silver	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3636.0	1475.0	1670.0	5.0	35.0
+359	Maruti Suzuki	Swift DZire LXi	295000	2010	33000	Petrol	Manual	Mumbai	Grey	First	Individual	1298 cc	87@6000	113@4500	FWD	4160.0	1690.0	1530.0	5.0	43.0
+360	Fiat	Linea Emotion 1.4	235000	2011	54000	Petrol	Manual	Nashik	Black	First	Individual	1368 cc	90@6000	115@4500		4560.0	1730.0	1487.0	5.0	45.0
+362	Honda	City ZX CVT Petrol	1700000	2022	8530	Petrol	Automatic	Pune	White	UnRegistered Car	Individual	1498 cc	119 bhp @ 6600 rpm	145 Nm @ 4300 rpm	FWD	4549.0	1748.0	1489.0	5.0	40.0
+363	Hyundai	Tucson GLS 2WD AT Petrol	1789999	2018	46000	Petrol	Automatic	Delhi	Black	First	Individual	1999 cc	153 bhp @ 6200 rpm	192 Nm @ 4000 rpm	FWD	4475.0	1850.0	1660.0	5.0	62.0
+364	Toyota	Innova 2.7 VX 7 STR [2016-2020]	1964999	2020	26000	Petrol	Manual	Delhi	Silver	First	Individual	2694 cc	164 bhp @ 5200 rpm	245 Nm @ 4000 rpm	RWD	4735.0	1830.0	1795.0	7.0	65.0
+365	Audi	TT 2.0 TFSI Quattro	4000000	2014	39394	Petrol	Automatic	Jaipur	White	Second	Individual	1984 cc	208 bhp @ 4300 rpm	350 Nm @ 1600 rpm	AWD	4198.0	1842.0	1353.0	2.0	60.0
+366	Tata	Tiago Revotron XTA [2017-2019]	484999	2018	35000	Petrol	Automatic	Patna	Blue	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+367	Maruti Suzuki	Swift VXi [2014-2017]	580000	2019	17881	Petrol	Manual	Ranchi	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+368	Honda	City E [2013-2016]	450000	2014	48409	Petrol	Manual	Ranchi	White	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+369	Maruti Suzuki	Alto 800 Vxi (Airbag)	355000	2020	40000	Petrol	Manual	Deoghar	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+371	Mercedes-Benz	C-Class Cabriolet C 300	6500000	2020	21000	Petrol	Automatic	Gurgaon	White	Second	Individual	1991 cc	241 bhp @ 5500 rpm	370 Nm @ 1300 rpm	RWD	4686.0	1810.0	1409.0	4.0	59.0
+372	Tata	Nexon XZ Plus Dark Edition	1050000	2022	1500	Petrol	Manual	Kolkata	Black	First	Individual	1199 cc	118 bhp @ 5500 rpm	170 Nm @ 1750 rpm	FWD	3993.0	1811.0	1606.0	5.0	44.0
+374	Honda	Jazz SV Petrol	495000	2015	52000	Petrol	Manual	Noida	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+375	Hyundai	i10 Sportz 1.2 Kappa2	275000	2011	42000	Petrol	Manual	Pune	Grey	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+376	Honda	Amaze 1.2 VX AT i-VTEC	465000	2014	29442	Petrol	Automatic	Mumbai	Silver	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+378	Mercedes-Benz	C-Class C 200 Progressive [2018-2020]	4900000	2022	5000	Petrol	Automatic	Delhi	White	First	Individual	1497 cc	181 bhp @ 5800 rpm	280 Nm @ 1600 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+381	Honda	City 1.5 S MT	269000	2009	85000	Petrol	Manual	Mohali	White	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+385	Hyundai	Creta 1.6 SX Plus AT Petrol	1000000	2018	42000	Petrol	Automatic	Kolkata	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+387	MG	Astor Sharp EX 1.5 MT	1550000	2022	600	Petrol	Manual	Kolkata	Orange	First	Individual	1498 cc	108 bhp @ 6000 rpm	144 Nm @ 4400 rpm	FWD	4323.0	1809.0	1650.0	5.0	48.0
+389	Toyota	Innova 2.0 V	575000	2013	82000	Petrol	Manual	Varanasi	Gold	UnRegistered Car	Individual	1998 cc	136@5600	182@4000		4555.0	1770.0	1755.0	8.0	55.0
+393	Skoda	Superb L&K TSI AT	3195000	2021	21651	Petrol	Automatic	Mumbai	Blue	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4861.0	1864.0	1483.0	5.0	66.0
+396	Maruti Suzuki	Ciaz Zeta 1.4 AT	741000	2017	31000	Petrol	Automatic	Mumbai	Blue	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+401	Maruti Suzuki	Baleno Alpha 1.2 AT	595000	2017	35000	Petrol	Automatic	Mumbai	Blue	Third	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+403	Maruti Suzuki	Celerio X Zxi AMT [2017-2019]	500000	2017	32000	Petrol	Automatic	Chennai	Orange	Second	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3715.0	1635.0	1565.0	5.0	35.0
+404	Maruti Suzuki	Wagon R LXI ABS	345000	2016	49857	Petrol	Manual	Faridabad	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+405	Maruti Suzuki	Wagon R VXI+	299000	2013	46000	Petrol	Manual	Varanasi	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3636.0	1475.0	1670.0	5.0	35.0
+406	Maruti Suzuki	Wagon R LXi Minor	160000	2008	50000	Petrol	Manual	Varanasi	Silver	Second	Individual	1061 cc	67@6200	84@3500	FWD	3520.0	1475.0	1690.0	5.0	35.0
+407	Maruti Suzuki	Baleno Delta 1.2 AT	570000	2017	36000	Petrol	Automatic	Zirakpur	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+408	Renault	Kiger RXT Turbo CVT	800000	2021	13000	Petrol	Automatic	Dehradun	White	First	Individual	999 cc	99 bhp @ 5000 rpm	152 Nm @ 2200 rpm	FWD	3991.0	1750.0	1605.0	5.0	40.0
+409	Maruti Suzuki	Wagon R VXi 1.0 [2019-2019]	440000	2018	40000	Petrol	Manual	Kanpur	White	First	Individual					3655.0	1620.0	1675.0	5.0	32.0
+410	Mercedes-Benz	E-Class 200 K Classic	509999	2007	39000	Petrol	Automatic	Ludhiana	Silver	Third	Individual									
+411	Hyundai	Eon 1.0 Kappa Magna + [2014-2016]	315000	2013	45000	Petrol	Manual	Chennai	Grey	First	Individual	998 cc	68 bhp @ 6200 rpm	94 Nm @ 3500 rpm	FWD	3515.0	1500.0	1510.0	5.0	32.0
+412	Maruti Suzuki	Alto LXi BS-III	227000	2011	87513	Petrol	Manual	Salem	Blue	Second	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+413	Mercedes-Benz	S-Class 350 L	1850000	2011	26000	Petrol	Automatic	Delhi	Black	First	Individual	3498 cc	272 bhp @ 6300 rpm	345 Nm @ 4500 rpm	RWD	5226.0	2120.0	1479.0	5.0	90.0
+417	Hyundai	Creta SX (O) 1.5 Petrol CVT [2020-2022]	1748999	2022	2670	Petrol	Automatic	Kolkata	White	First	Individual	1497 cc	113 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+419	Hyundai	Elite i20 Asta 1.2 (O) [2016]	779000	2016	9889	Petrol	Manual	Bangalore	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+420	Honda	City ZX CVT Petrol	1450000	2021	13000	Petrol	Automatic	Delhi	Brown	First	Individual	1497 cc	118 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+421	Tata	Nexon XZA Plus Petrol	890000	2018	35000	Petrol	Automatic	Chennai	Orange	First	Individual	1198 cc	108 bhp @ 5000 rpm	170 Nm @ 1750 rpm	FWD	3994.0	1811.0	1607.0	5.0	44.0
+422	Maruti Suzuki	Baleno Zeta 1.2	625000	2017	51145	Petrol	Manual	Nagpur	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+424	Audi	RS5 4.2 Coupe	2900000	2011	56000	Petrol	Automatic	Pune	Red	Third	Individual	4163 cc	444 bhp @ 8250 rpm	430 Nm @ 4000 rpm	AWD	4649.0	1860.0	1366.0	5.0	64.0
+429	Ford	Figo Duratec Petrol Titanium 1.2	270000	2015	64000	Petrol	Manual	Pune	Grey	First	Individual	1196 cc	70 bhp @ 6250 rpm	102 Nm @ 4000 rpm	FWD	3795.0	1680.0	1427.0	5.0	45.0
+430	Maruti Suzuki	DZire VXi AMT	825000	2019	9644	Petrol	Automatic	Pune	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+431	Maruti Suzuki	Celerio ZXi (O) AMT [2019-2020]	425000	2017	41624	Petrol	Automatic	Pune	White	Second	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+433	Mercedes-Benz	E-Class E250 Elegance	980000	2011	78000	Petrol	Automatic	Ludhiana	White	Second	Individual	2497 cc	204@6100	245@5000	RWD	4868.0	1854.0	1471.0	5.0	80.0
+434	Renault	Duster RXL Petrol	789000	2017	60444	Petrol	Manual	Bangalore	Red	First	Individual	1498 cc	105 bhp @ 5600 rpm	142 Nm @ 4000 rpm	FWD	4315.0	1822.0	1695.0	5.0	50.0
+435	BMW	3-Series 330i M Sport Edition	5100000	2022	6000	Petrol	Automatic	Raipur	White	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	RWD	4633.0	1811.0	1429.0	5.0	57.0
+437	Hyundai	Creta 1.6 SX Plus AT Petrol	1400000	2019	13000	Petrol	Automatic	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+440	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2017-2020]	450000	2016	53300	Petrol	Manual	Pune	Maroon	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+441	Honda	City SV	840000	2019	34000	Petrol	Manual	Delhi	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+442	Mercedes-Benz	S-Class Maybach S 560	18500000	2021	21000	Petrol	Automatic	Gurgaon	Black	First	Individual	3982 cc	463 bhp @ 5250 rpm	700 Nm @ 2000 rpm	RWD	5462.0	1899.0	1498.0	4.0	70.0
+455	Maruti Suzuki	Swift VXi [2014-2017]	590000	2019	26000	Petrol	Manual	Lucknow	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+459	Tata	Manza Aqua Safire BS-IV	114999	2012	93000	Petrol	Manual	Unnao	Silver	Second	Individual	1368 cc	90@6000	116@4750		4413.0	1703.0	1550.0	5.0	44.0
+460	Maruti Suzuki	Wagon R VXI	545000	2019	10340	Petrol	Manual	Delhi	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+462	Maruti Suzuki	XL6 Alpha MT Petrol	1299000	2021	13400	Petrol	Manual	Mysore	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+464	Porsche	718 Cayman [2017-2020]	9000000	2017	7000	Petrol	Automatic	Faridabad	Red	First	Individual	1988 cc	295 bhp @ 6500 rpm	380 Nm @ 1950 rpm	RWD	4379.0	1801.0	1295.0	2.0	54.0
+465	Maruti Suzuki	Swift VXi [2014-2017]	550000	2019	29000	Petrol	Manual	Kolkata	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+468	Hyundai	Verna 1.6 VTVT S	495000	2015	42000	Petrol	Manual	Kolkata	Red	First	Individual	1591 cc	121 bhp @ 6300 rpm	155 Nm @ 4200 rpm	FWD	4375.0	1700.0	1475.0	5.0	43.0
+469	Hyundai	Eon 1.0 Kappa Magna AirBag	360000	2015	16205	Petrol	Manual	Pune	White	First	Individual	998 cc	68 bhp @ 6200 rpm	94 Nm @ 3500 rpm	FWD	3515.0	1550.0	1510.0	5.0	32.0
+470	Maruti Suzuki	Grand Vitara 2015 2.0 AT	345000	2007	92000	Petrol	Automatic	Mohali	Black	Third	Individual	1995 cc	120@5500	170@3500	AWD	4470.0	1810.0	1695.0	5.0	66.0
+471	Hyundai	Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016]	565000	2016	29000	Petrol	Automatic	Mumbai	Silver	First	Individual	1197 cc	79 bhp @ 6000 rpm	112 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+477	Mercedes-Benz	S-Class 300	1500000	2012	158000	Petrol	Automatic	Chennai	Brown	First	Individual									
+482	Honda	City VX CVT Petrol	1390000	2022	32000	Petrol	Automatic	Delhi	Brown	First	Individual	1498 cc	119 bhp @ 6600 rpm	145 Nm @ 4300 rpm	FWD	4549.0	1748.0	1489.0	5.0	40.0
+483	Ferrari	488 GTB	35000000	2018	9500	Petrol	Automatic	Delhi	Black	First	Individual	3902 cc	660 bhp @ 8000 rpm	760 Nm @ 3000 rpm	RWD	4568.0	1952.0	1213.0	2.0	78.0
+487	Maruti Suzuki	Zen LXi BS-II	71001	2004	65082	Petrol	Manual	Kolkata	Yellow	First	Individual									
+488	Honda	Brio S MT	295000	2012	66240	Petrol	Manual	Jaipur	Grey	Third	Individual									
+489	Mercedes-Benz	GLE 43 4MATIC [2017-2019]	8500000	2018	25275	Petrol	Automatic	Hyderabad	Black	First	Individual	2996 cc	362 bhp @ 5500 rpm	520 Nm @ 2000 rpm	AWD	4891.0	2003.0	1719.0	5.0	93.0
+491	Tata	Nano Base	49000	2010	60000	Petrol	Manual	Gurgaon	White	First	Individual	624 cc	35@5250	48@3000	RWD	3099.0	1495.0	1652.0	4.0	15.0
+494	Hyundai	Creta SX 1.6 AT Petrol	1075000	2019	45000	Petrol	Automatic	Raipur	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+496	Toyota	Corolla Altis G AT Petrol	1321000	2018	38000	Petrol	Automatic	Mumbai	Gold	First	Corporate	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+498	Maruti Suzuki	Baleno Zeta 1.2	825000	2021	22000	Petrol	Manual	Raipur	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+500	Maruti Suzuki	Swift ZXi	465000	2014	25704	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+503	Volkswagen	Vento Highline Plus 1.2 (P) AT 16 Alloy	825000	2018	62000	Petrol	Automatic	Faridabad	Brown	First	Corporate	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	4390.0	1699.0	1467.0	5.0	55.0
+505	Tata	Tiago Revotron XT [2016-2019]	379000	2018	29434	Petrol	Manual	Kolkata	Silver	Second	Individual	1047 cc	69 bhp @ 4000 rpm	140 Nm @ 1800 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+506	Datsun	Go D	240000	2017	42000	Petrol	Manual	Lucknow	White	First	Individual	1198 cc	67 bhp @ 5000 rpm	104 Nm @ 4000 rpm	FWD	3785.0	1635.0	1485.0	5.0	35.0
+507	Kia	Seltos HTK Plus 1.5 [2019-2020]	1525000	2021	14000	Petrol	Manual	Delhi	Black	First	Individual	1497 cc	114 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+510	Lamborghini	Huracan LP 610-4	24000000	2016	6000	Petrol	Automatic	Delhi	Blue	First	Individual	5204 cc	602 bhp @ 8250 rpm	560 Nm @ 6500 rpm	AWD	4459.0	1924.0	1165.0	2.0	
+514	Hyundai	Elite i20 Sportz 1.2 MT	775000	2020	39000	Petrol	Manual	Mumbai	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4200 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+515	Maruti Suzuki	Estilo VXi BS-IV	229999	2012	52000	Petrol	Manual	Pune	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1495.0	1595.0	5.0	35.0
+517	Hyundai	Eon Era +	300000	2018	51000	Petrol	Manual	Kanpur	White	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+518	Maruti Suzuki	Alto VXi (O) [2014-2019]	160000	2011	72000	Petrol	Manual	Kanpur	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+519	Maruti Suzuki	Alto LXi BS-III	150000	2011	65000	Petrol	Manual	Lucknow	White	First	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+522	Hyundai	i10 Sportz 1.2	270000	2010	86000	Petrol	Manual	Chennai	Grey	Second	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+523	Maruti Suzuki	Alto 800 Lxi	210000	2014	42505	Petrol	Manual	Purnea	Red	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+524	Hyundai	Elite i20 Asta 1.2	625000	2017	42000	Petrol	Manual	Patna	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+526	Kia	Seltos GTX Plus AT 1.4 [2019-2020]	1490000	2019	57600	Petrol	Automatic	Chennai	White	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+530	Toyota	Etios V	265000	2011	66000	Petrol	Manual	Delhi	Black	First	Individual	1496 cc	80 bhp @ 5600 rpm	132 Nm @ 3000 rpm	FWD	4265.0	1695.0	1510.0	5.0	45.0
+531	Volkswagen	Vento Comfortline Petrol	360000	2013	58000	Petrol	Manual	Chandigarh	Bronze	First	Individual	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4384.0	1699.0	1466.0	5.0	55.0
+534	Maruti Suzuki	Ciaz Alpha 1.4 MT	800000	2017	82300	Petrol	Manual	Pune	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+537	Volkswagen	Polo Highline1.0L (P)	720000	2018	50197	Petrol	Manual	Pune	Grey	First	Individual	999 cc	75 bhp @ 6200 rpm	95 Nm @ 3000 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+538	Honda	Amaze 1.2 S i-VTEC	395000	2014	44527	Petrol	Manual	Mumbai	Brown	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+540	Ford	Ecosport Trend 1.5 Ti-VCT	455000	2014	50000	Petrol	Manual	Delhi	White	Second	Individual	1499 cc	109 bhp @ 6300 rpm	140 Nm @ 4400 rpm	FWD	3999.0	1765.0	1708.0	5.0	52.0
+541	Honda	City VX (O) MT	690000	2014	37000	Petrol	Manual	Delhi	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+547	Honda	City 1.5 S MT	450000	2013	61000	Petrol	Manual	Delhi	Maroon	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+551	Honda	City V	875000	2018	28000	Petrol	Manual	Delhi	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+554	Maruti Suzuki	Swift DZire VXi	229999	2010	72000	Petrol	Manual	Kanpur	Silver	First	Individual	1298 cc	87@6000	113@4500	FWD	4160.0	1690.0	1530.0	5.0	43.0
+556	Maruti Suzuki	Alto VXi	234000	2013	72600	Petrol	Manual	Panchkula	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+557	Datsun	Redigo S 1.0 AMT [2018-2019]	320000	2018	42313	Petrol	Automatic	Bangalore	Grey	Second	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3429.0	1560.0	1541.0	5.0	28.0
+560	Maruti Suzuki	Alto LXi BS-III	169000	2010	18500	Petrol	Manual	Lucknow	Gold	First	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+562	Hyundai	Venue SX Plus 1.0 Turbo DCT	1090000	2020	26200	Petrol	Automatic	Delhi	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+563	Maruti Suzuki	Swift LXi Special Edition	700000	2019	11000	Petrol	Manual	Chennai	Silver	Second	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3840.0	1735.0	1530.0	5.0	37.0
+564	Maruti Suzuki	Swift VXi	661000	2021	14366	Petrol	Manual	Ahmedabad	Others	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3845.0	1735.0	1530.0	5.0	37.0
+571	Volkswagen	Vento Highline Petrol AT	345000	2011	50667	Petrol	Automatic	Mumbai	White	Second	Individual									
+573	BMW	3-Series 330i M Sport Edition	3650000	2019	6000	Petrol	Automatic	Delhi	White	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	RWD	4633.0	1811.0	1429.0	5.0	57.0
+574	Kia	Sonet GTX Plus 1.0 iMT [2020-2021]	1195000	2022	6200	Petrol	Manual	Kolkata	Red	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1790.0	1647.0	5.0	45.0
+575	Mercedes-Benz	S-Class 500L	1650000	2012	44000	Petrol	Automatic	Mumbai	Silver	Third	Individual	5461 cc	368 bhp @ 6300 rpm	505 Nm @ 4400 rpm	RWD	5226.0	2120.0	1479.0	5.0	90.0
+576	Skoda	Superb L&K TSI AT	3199000	2021	6900	Petrol	Automatic	Kolkata	Brown	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4861.0	1864.0	1483.0	5.0	66.0
+577	Mercedes-Benz	E-Class E 200 Exclusive [2019-2019]	7100000	2022	2500	Petrol	Automatic	Noida	Grey	First	Individual	1991 cc	194 bhp @ 5800 rpm	300 Nm @ 1600 rpm	RWD	5063.0	1860.0	1494.0	5.0	80.0
+578	Volkswagen	Polo GT TSI	625000	2016	68000	Petrol	Automatic	Delhi	White	First	Individual	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+580	Hyundai	Santro Sportz	551000	2021	19000	Petrol	Manual	Ahmedabad	White	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+589	Kia	Seltos HTX 1.5 [2020-2021]	1275000	2020	42000	Petrol	Manual	Ahmedabad	Black	First	Individual	1497 cc	113 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+590	Maruti Suzuki	Eeco 5 STR WITH A/C+HTR [2019-2020]	535000	2020	41441	Petrol	Manual	Bangalore	Silver	First	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	5.0	40.0
+593	Honda	Jazz V AT Petrol	675000	2017	48650	Petrol	Automatic	Mumbai	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+595	Mercedes-Benz	E-Class E 200 Exclusive [2019-2019]	6500000	2021	7500	Petrol	Automatic	Delhi	Black	First	Individual	1991 cc	194 bhp @ 5800 rpm	300 Nm @ 1600 rpm	RWD	5063.0	1860.0	1494.0	5.0	80.0
+597	Maruti Suzuki	Wagon R VXI	390000	2015	43297	Petrol	Manual	Kollam	Red	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+598	Maruti Suzuki	Swift VXi [2014-2017]	650000	2019	44710	Petrol	Manual	Pune	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+601	Maruti Suzuki	Swift VXi	385000	2011	69000	Petrol	Manual	Hyderabad	Silver	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+602	Maruti Suzuki	Swift DZire VXI	450000	2017	75000	Petrol	Manual	Kanpur	White	First	Commercial Registration	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+603	Hyundai	Grand i10 Sports Edition 1.2L Kappa VTVT	649000	2020	52236	Petrol	Manual	Udupi	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+607	Hyundai	Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT	599000	2020	35000	Petrol	Automatic	Kolkata	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+609	Audi	A4 30 TFSI Technology Pack	3500000	2018	18000	Petrol	Automatic	Mumbai	White	First	Individual	1395 cc	148 bhp @ 5000 rpm	250 Nm @ 1500 rpm	FWD	4726.0	1842.0	1427.0	5.0	54.0
+610	Honda	Jazz V Petrol	400000	2016	50000	Petrol	Manual	Kolkata	Red	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+611	Mercedes-Benz	GLC 200 Progressive	6975000	2022	2000	Petrol	Automatic	Karnal	White	First	Individual	1991 cc	194 bhp @ 5500 rpm	320 Nm @ 1650 rpm	RWD	4658.0	1890.0	1644.0	5.0	66.0
+615	Maruti Suzuki	Celerio ZXi [2017-2019]	445000	2018	71000	Petrol	Manual	Ludhiana	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+618	Hyundai	Eon Magna [2011-2012]	190000	2013	63000	Petrol	Manual	Ludhiana	White	Second	Individual	814 cc	56@5500	75@4000		3495.0	1550.0	1500.0	5.0	32.0
+619	Maruti Suzuki	Swift VXi [2014-2017]	600000	2020	10000	Petrol	Manual	Meerut	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+625	Hyundai	Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018]	425000	2015	48000	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+626	Hyundai	Elite i20 Sportz 1.2 IVT	795000	2022	4000	Petrol	Automatic	Kanpur	White	First	Individual	1197 cc	87 bhp @ 6000 rpm	115 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+627	Honda	City 1.5 V MT	269000	2010	73000	Petrol	Manual	Delhi	Silver	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+631	Hyundai	i20 Active 1.2 S	529000	2015	57654	Petrol	Manual	Zirakpur	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1760.0	1555.0	5.0	45.0
+632	Maruti Suzuki	Alto VXi (O)	400000	2019	22000	Petrol	Manual	Ludhiana	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+634	Maruti Suzuki	XL6 Zeta MT Petrol	975000	2019	41792	Petrol	Manual	Pune	Blue	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+637	Kia	Seltos GTX Plus 1.4 [2020-2021]	1550000	2019	17000	Petrol	Manual	Bangalore	White	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+638	Maruti Suzuki	Alto VXi AMT	430000	2019	57993	Petrol	Automatic	Hyderabad	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+640	Maruti Suzuki	Baleno Delta 1.2	600000	2018	32000	Petrol	Manual	Mohali	Silver	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+641	Toyota	Corolla Altis VL AT Petrol	1650000	2018	25914	Petrol	Automatic	Pune	Brown	First	Corporate	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+643	Audi	Q7 Technology 55 TFSI	9400000	2022	4500	Petrol	Automatic	Delhi	Black	First	Individual	2995 cc	335 bhp @ 5200 rpm	500 Nm @ 1370 rpm	AWD	5064.0	1970.0	1703.0	7.0	85.0
+644	Maruti Suzuki	Alto VXi	250000	2014	114000	Petrol	Manual	Aurangabad	White	Second	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+647	Maruti Suzuki	Swift DZire VXI	455000	2014	30183	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+649	Maruti Suzuki	Wagon R VXI	345000	2016	73190	Petrol	Manual	Nagpur	Grey	Second	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+650	BMW	X1 sDrive20i xLine	4700000	2022	13120	Petrol	Automatic	Pune	White	First	Individual	1998 cc	189 bhp @ 5000 rpm	280 Nm @ 1350 rpm	FWD	4447.0	1821.0	1598.0	5.0	51.0
+651	Hyundai	Elantra 1.8 SX MT	700000	2014	64000	Petrol	Manual	Dehradun	White	First	Individual	1797 cc	147 bhp @ 6500 rpm	177 Nm @ 4700 rpm	FWD	4530.0	1775.0	1470.0	5.0	56.0
+653	Maruti Suzuki	Ciaz VXi	590000	2015	39000	Petrol	Manual	Delhi	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+654	Nissan	Micra XV CVT [2016-2017]	490000	2014	56918	Petrol	Automatic	Coimbatore	Blue	Second	Individual	1198 cc	76 bhp @ 6000 rpm	104 Nm @ 4400 rpm	FWD	3825.0	1665.0	1530.0	5.0	41.0
+657	Volkswagen	Tiguan AllSpace 2.0 TSI	3375000	2021	25000	Petrol	Automatic	Mumbai	Silver	First	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1500 rpm	AWD	4701.0	1839.0	1674.0	7.0	60.0
+660	Maruti Suzuki	Baleno Delta 1.2	715000	2021	16000	Petrol	Manual	Delhi	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+662	Hyundai	Eon 1.0 Kappa Magna + [2014-2016]	275000	2012	30000	Petrol	Manual	Indore	White	First	Individual	998 cc	68 bhp @ 6200 rpm	94 Nm @ 3500 rpm	FWD	3515.0	1500.0	1510.0	5.0	32.0
+663	Honda	City 1.5 V MT	445000	2012	111000	Petrol	Manual	Ernakulam	Red	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+670	Hyundai	Alcazar Signature (O) 6 STR 2.0 Petrol AT	2140000	2021	24000	Petrol	Automatic	Mumbai	Grey	First	Individual	1999 cc	157 bhp @ 6500 rpm	191 Nm @ 4500 rpm	FWD	4500.0	1790.0	1675.0	6.0	50.0
+671	Honda	Amaze 1.2 V CVT Petrol [2018-2020]	795000	2019	22224	Petrol	Automatic	Pune	Grey	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+673	Honda	Amaze 1.2 S MT Petrol [2018-2020]	628000	2018	53848	Petrol	Manual	Delhi	Maroon	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+675	Mercedes-Benz	E-Class E 200	2400000	2016	61159	Petrol	Automatic	Mumbai	Black	Second	Individual	1991 cc	184 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4879.0	1854.0	1474.0	5.0	80.0
+676	Honda	City VX (O) MT	595000	2015	72000	Petrol	Manual	Meerut	Brown	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+678	Honda	WR-V VX MT Petrol	819999	2018	42000	Petrol	Manual	Chennai	Maroon	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+682	Mercedes-Benz	C-Class C200 Progressive	4950000	2021	12400	Petrol	Automatic	Pune	Blue	First	Individual	1991 cc	201 bhp @ 5800 rpm	300 Nm @ 1200 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+684	MG	Hector Sharp 1.5 DCT Petrol [2019-2020]	1625000	2019	7000	Petrol	Automatic	Pune	Red	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm		4655.0	1835.0	1760.0	5.0	60.0
+688	Hyundai	i10 Asta 1.2 AT with Sunroof	325000	2013	46721	Petrol	Automatic	Thane	Silver	Second	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+692	Honda	City ZX CVT Petrol [2017-2019]	1138000	2018	6000	Petrol	Automatic	Mumbai	Silver	First	Corporate	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+693	Audi	A4 1.8 TFSI Multitronic Premium Plus	4250000	2021	17000	Petrol	Automatic	Mumbai	White	First	Individual	1798 cc	170 bhp @ 3800 rpm	320 Nm @ 1400 rpm	FWD	4701.0	1826.0	1427.0	5.0	63.0
+694	Honda	Brio S MT	365000	2014	31000	Petrol	Manual	Kharar	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+700	Maruti Suzuki	DZire VXi AMT	695000	2018	68818	Petrol	Automatic	Mumbai	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+703	Toyota	Innova ZX 2.7 AT 7 STR	2598000	2022	12050	Petrol	Automatic	Delhi	Black	First	Individual	2694 cc	164 bhp @ 5200 rpm	245 Nm @ 4000 rpm	RWD	4735.0	1830.0	1795.0	7.0	65.0
+704	Honda	Jazz VX Petrol	585000	2017	24100	Petrol	Manual	Mumbai	Silver	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+705	Ford	Aspire Titanium 1.2 Ti-VCT	434999	2017	23000	Petrol	Manual	Delhi	White	First	Individual	1196 cc	87 bhp @ 6300 rpm	112 Nm @ 4000 rpm	FWD	3995.0	1695.0	1525.0	5.0	42.0
+708	Maruti Suzuki	Celerio VXi	565000	2020	47000	Petrol	Manual	Hyderabad	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+709	Toyota	Urban Cruiser Premium Grade AT	1050000	2021	1910	Petrol	Automatic	Varanasi	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	3995.0	1790.0	1640.0	5.0	48.0
+713	Hyundai	i10 1.1L iRDE ERA Special Edition	254999	2012	18954	Petrol	Manual	Patna	White	First	Individual	1086 cc	68 bhp @ 5500 rpm	99.081 Nm @ 4500 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+714	Hyundai	Verna Fluidic 1.6 VTVT SX AT	598000	2015	58200	Petrol	Automatic	Navi Mumbai	Silver	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+720	Hyundai	Grand i10 Asta 1.2 Kappa VTVT	495000	2017	47000	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+721	Audi	A3 40 TFSI Premium Plus + sunroof	2450000	2018	43290	Petrol	Automatic	Pune	Blue	First	Individual	1798 cc	178 bhp @ 5100 rpm	250 Nm @ 150 rpm	FWD	4456.0	1796.0	1416.0	5.0	50.0
+722	Honda	Brio E MT	250000	2013	70000	Petrol	Manual	Dehradun	Grey	First	Individual									
+729	Jaguar	XF R 5.0 V8 Supercharged	2800000	2011	70662	Petrol	Automatic	Pune	Grey	Second	Individual									
+731	Toyota	Etios G	325000	2011	101347	Petrol	Manual	Pune	Red	Third	Individual	1496 cc	90 bhp @ 5600 rpm	132 Nm @ 3000 rpm	FWD	4265.0	1695.0	1510.0	5.0	45.0
+737	Hyundai	Grand i10 Asta AT 1.2 Kappa VTVT [2013-2016]	436000	2014	37959	Petrol	Automatic	Delhi	White	Second	Individual	1197 cc	79 bhp @ 6000 rpm	112 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+739	Datsun	Go T (O)	270000	2017	27000	Petrol	Manual	Lucknow	Silver	First	Individual	1198 cc	67 bhp @ 5000 rpm	104 Nm @ 4000 rpm	FWD	3785.0	1635.0	1485.0	5.0	35.0
+741	Hyundai	Creta SX 1.4 Turbo 7 DCT	1911000	2022	1300	Petrol	Automatic	Delhi	Black	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+745	Hyundai	Santro Sportz AMT [2018-2020]	465000	2019	19000	Petrol	Automatic	Kolkata	Gold	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+746	Honda	City V	875000	2019	58618	Petrol	Manual	Pune	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+747	MINI	Cooper S	3200000	2017	10500	Petrol	Automatic	Mumbai	Black	First	Individual	1998 cc	189 bhp @	280 Nm @ 1250 rpm		3850.0	1727.0	1414.0	4.0	44.0
+749	Renault	Kwid 1.0 RXT AMT Opt	426999	2020	41669	Petrol	Automatic	Zirakpur	Others	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+752	Maruti Suzuki	DZire ZXi	695000	2018	31000	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+755	Tata	Tiago Revotron XZ	449000	2018	53512	Petrol	Manual	Hyderabad	Orange	Second	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+761	Renault	Kwid 1.0 RXT Edition	375000	2018	14000	Petrol	Manual	Mumbai	Green	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+765	Honda	City VX CVT	825000	2016	45000	Petrol	Automatic	Mumbai	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+766	Hyundai	Santro Magna [2018-2020]	509999	2019	30858	Petrol	Manual	Hyderabad	Silver	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+768	Hyundai	Grand i10 Sportz 1.2 Kappa VTVT [2016-2017]	650000	2020	37003	Petrol	Manual	Bangalore	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+770	Maruti Suzuki	Baleno Sigma 1.2	545000	2016	53000	Petrol	Manual	Jalandhar	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+778	Ford	Ecosport Titanium 1.5L Ti-VCT	625000	2019	48422	Petrol	Manual	Kolkata	Blue	First	Individual	1497 cc	121 bhp @ 6500 rpm	150 Nm @ 4500 rpm	FWD	3998.0	1765.0	1647.0	5.0	52.0
+781	Maruti Suzuki	Baleno Delta 1.2	484999	2018	62000	Petrol	Manual	Faridabad	Silver	Second	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+782	Audi	A4 30 TFSI Premium Plus	4250000	2020	17000	Petrol	Automatic	Pune	White	First	Individual	1395 cc	148 bhp @ 5000 rpm	250 Nm @ 1500 rpm	FWD	4726.0	1842.0	1427.0	5.0	54.0
+784	Hyundai	Creta SX 1.6 (O) Petrol	1275000	2019	44000	Petrol	Manual	Delhi	Grey	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+785	Porsche	718 Boxster	9500000	2018	20000	Petrol	Automatic	Delhi	Yellow	First	Individual	1988 cc	295 bhp @ 6500 rpm	380 Nm @ 2150 rpm	RWD	4379.0	1801.0	1281.0	2.0	54.0
+790	Maruti Suzuki	DZire VXi AMT	715000	2019	31552	Petrol	Automatic	Mumbai	Brown	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+791	Maruti Suzuki	Wagon R VXI+ AMT	380000	2016	70000	Petrol	Automatic	Ahmedabad	Grey	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3636.0	1475.0	1670.0	5.0	35.0
+792	Honda	Brio E MT	375000	2016	35134	Petrol	Manual	Delhi	Silver	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+795	Maruti Suzuki	Swift ZXi AMT [2018-2019]	695000	2018	8000	Petrol	Automatic	Mumbai	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3840.0	1735.0	1530.0	5.0	37.0
+798	Hyundai	i20 Active 1.2 SX	685000	2018	64300	Petrol	Manual	Pune	Brown	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1760.0	1555.0	5.0	40.0
+800	Skoda	Octavia 1.8 TSI Ambition Plus AT	1685000	2017	28600	Petrol	Automatic	Mumbai	Grey	First	Individual	1798 cc	177 bhp @ 4500 rpm	250 Nm @ 1250 rpm	FWD	4659.0	1814.0	1476.0	5.0	50.0
+806	Maruti Suzuki	Ciaz Zeta 1.4 AT	785000	2017	20000	Petrol	Automatic	Mumbai	Blue	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+809	Hyundai	i20 Sportz 1.2 (O)	335000	2013	80500	Petrol	Manual	Ambala Cantt	White	First	Individual									
+810	Jaguar	XJ 3.0 Petrol	2550000	2013	65000	Petrol	Automatic	Mumbai	White	Second	Individual	2995 cc	335 bhp @ 6500 rpm	450 Nm @ 3500 rpm	RWD	5247.0	2110.0	1448.0	5.0	83.0
+812	Volkswagen	Polo Highline1.2L (P)	490000	2015	50000	Petrol	Manual	Delhi	White	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+814	Hyundai	i20 Magna 1.2	250000	2011	75431	Petrol	Manual	Mumbai	Grey	First	Individual									
+815	Renault	Kwid 1.0 RXT [2016-2019]	420000	2017	43000	Petrol	Manual	Hyderabad	Grey	UnRegistered Car	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+821	Hyundai	Eon Era +	290000	2018	70000	Petrol	Manual	Kheda	White	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+822	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	390000	2014	57000	Petrol	Manual	Delhi	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+823	Toyota	Corolla Altis 1.8 G AT	890000	2014	63000	Petrol	Automatic	Delhi	Grey	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4540.0	1760.0	1480.0	5.0	55.0
+824	Honda	City 1.5 EXi	100000	2002	65494	Petrol	Manual	Ranchi	Beige	First	Individual									
+825	Maruti Suzuki	Swift LXi	440000	2016	53807	Petrol	Manual	Gurgaon	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+826	Maruti Suzuki	Ciaz Delta 1.4 MT	721000	2018	46000	Petrol	Manual	Noida	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+827	Skoda	Octavia 1.8 TSI L&K	1515000	2018	67546	Petrol	Automatic	Ludhiana	Others	Second	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4670.0	1814.0	1476.0	5.0	50.0
+828	Land Rover	Discovery Sport SE R-Dynamic Petrol	7000000	2021	14500	Petrol	Automatic	Delhi	White	First	Individual	1997 cc	245 bhp @ 5500 rpm	365 Nm @ 1500 rpm	AWD	4600.0	2069.0	1724.0	7.0	70.0
+829	Honda	City V	949000	2018	37100	Petrol	Manual	Mysore	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+831	Renault	Kwid RXT [2015-2019]	319000	2018	89059	Petrol	Manual	Zirakpur	Others	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+834	Maruti Suzuki	Baleno Delta 1.2	685000	2017	58146	Petrol	Manual	Bangalore	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+835	MINI	Cooper S	3900000	2020	13000	Petrol	Automatic	Delhi	Black	First	Individual	1998 cc	189 bhp @	280 Nm @ 1250 rpm		3850.0	1727.0	1414.0	4.0	44.0
+841	Hyundai	Creta SX 1.6 (O) Petrol	1115000	2018	37000	Petrol	Manual	Delhi	Black	Second	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+842	Honda	City V CVT Petrol [2017-2019]	761000	2017	38000	Petrol	Automatic	Ahmedabad	Grey	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+843	Maruti Suzuki	Baleno Zeta 1.2	825000	2021	8499	Petrol	Manual	Thane	Yellow	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+845	Honda	Jazz V Petrol	565000	2017	45000	Petrol	Manual	Delhi	Grey	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+846	Mercedes-Benz	S-Class 350	750000	2007	102000	Petrol	Automatic	Pune	Silver	First	Individual	3498 cc	272@6000	350@2400	RWD	5076.0	1871.0	1473.0	5.0	90.0
+847	Hyundai	Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT	685000	2021	9232	Petrol	Automatic	Mumbai	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+848	Maruti Suzuki	Estilo VXi	135000	2008	72542	Petrol	Manual	Mirzapur	Pink	First	Individual	1061 cc	64@6200	84@3500		3495.0	1495.0	1595.0	5.0	35.0
+849	Hyundai	Elite i20 Magna Executive 1.2	609000	2018	42601	Petrol	Manual	Udupi	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+855	Honda	Amaze 1.2 S i-VTEC Opt	480000	2016	50000	Petrol	Manual	Guwahati	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+860	Maruti Suzuki	Eeco 5 STR WITH A/C+HTR [2019-2020]	422000	2018	12768	Petrol	Manual	Ahmedabad	White	First	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	5.0	40.0
+861	Audi	A4 Premium Plus 40 TFSI	4200000	2021	12321	Petrol	Automatic	Delhi	Black	UnRegistered Car	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1450 rpm	FWD	4762.0	1847.0	1433.0	5.0	54.0
+862	Toyota	Corolla Altis VL AT Petrol	1295000	2018	65100	Petrol	Automatic	Thane	Beige	First	Corporate	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+863	Hyundai	Grand i10 Asta 1.2 Kappa VTVT (O) [2013-2017]	495000	2017	30000	Petrol	Manual	Delhi	Orange	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+864	Tata	Tiago Revotron XTA [2017-2019]	585000	2019	12000	Petrol	Automatic	Mumbai	Silver	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+867	Skoda	Rapid Elegance 1.6 MPI AT	425000	2013	57000	Petrol	Automatic	Delhi	White	Second	Individual	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4386.0	1699.0	1466.0	5.0	55.0
+874	Mercedes-Benz	S-Class 350	1500000	2009	75000	Petrol	Automatic	Chennai	Red	Second	Individual	3498 cc	272@6000	350@2400	RWD	5076.0	1871.0	1473.0	5.0	90.0
+878	Honda	Jazz V AT Petrol	595000	2016	80000	Petrol	Automatic	Delhi	Grey	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+881	Maruti Suzuki	Eeco 5 STR WITH A/C+HTR [2019-2020]	328000	2018	26807	Petrol	Manual	Mumbai	Black	Second	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	5.0	40.0
+882	Hyundai	Elite i20 Sportz 1.2	625000	2018	23000	Petrol	Manual	Delhi	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	40.0
+884	Maruti Suzuki	Baleno Alpha (O) 1.2	975000	2022	5000	Petrol	Manual	Delhi	White	First	Individual									
+885	Maruti Suzuki	Swift DZire ZXI	545000	2015	70000	Petrol	Manual	Mohali	Silver	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+886	Volkswagen	Polo Trendline 1.0L (P)	699000	2019	53929	Petrol	Manual	Bangalore	Red	First	Individual	999 cc	75 bhp @ 6200 rpm	95 Nm @ 3000 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+887	Maruti Suzuki	Celerio LXi	390000	2014	49580	Petrol	Manual	Coimbatore	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+892	Honda	City 1.5 V AT	550000	2011	69000	Petrol	Automatic	Bangalore	Black	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+893	Jeep	Compass Limited 1.4 Petrol AT [2017-2020]	1350000	2017	70000	Petrol	Automatic	Chennai	Blue	First	Individual	1368 cc	160 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4395.0	1818.0	1640.0	5.0	60.0
+894	Hyundai	i10 Magna 1.2 Kappa2	325000	2013	15780	Petrol	Manual	Thane	Red	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+897	Maruti Suzuki	Ciaz ZXI+	640000	2016	50800	Petrol	Manual	Lucknow	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+899	Toyota	Corolla Altis 1.8 VL AT	450000	2011	95000	Petrol	Automatic	Mumbai	White	First	Individual	1794 cc	132@6000	170@4200	FWD	4540.0	1760.0	1480.0	5.0	55.0
+901	Audi	A6 Technology 45 TFSI	5300000	2020	36000	Petrol	Automatic	Chennai	Grey	First	Individual	1984 cc	241 bhp @ 5000 rpm	370 Nm @ 1600 rpm	FWD	4939.0	1886.0	1457.0	5.0	73.0
+906	Maruti Suzuki	Alto VXi	245000	2014	31100	Petrol	Manual	Jamshedpur	Maroon	Second	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+907	Honda	Amaze 1.2 S i-VTEC	475000	2014	65000	Petrol	Manual	Coimbatore	Silver	Second	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+911	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	545000	2019	28000	Petrol	Manual	Kharar	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+915	Renault	Kwid RXT [2015-2019]	315000	2017	15507	Petrol	Manual	Pune	Bronze	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+917	Honda	City VX	550000	2015	44000	Petrol	Manual	Kolkata	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+920	Datsun	Redigo T(O) 1.0 [2017-2019]	198000	2017	24000	Petrol	Manual	Faridabad	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3429.0	1560.0	1541.0	5.0	28.0
+922	Hyundai	i20 Asta 1.4 AT with AVN	310000	2011	26000	Petrol	Automatic	Mumbai	Silver	First	Individual	1396 cc	100@5500	137@4200		3940.0	1710.0	1505.0	5.0	45.0
+923	Renault	Kwid RXT [2015-2019]	315000	2017	15507	Petrol	Manual	Thane	Bronze	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+924	Honda	City V	775000	2018	39000	Petrol	Manual	Noida	Maroon	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+925	Maruti Suzuki	DZire VXi AMT	625000	2017	58000	Petrol	Automatic	Chennai	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+929	Maruti Suzuki	Swift ZXi AMT [2018-2019]	725000	2019	11874	Petrol	Automatic	Mumbai	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3840.0	1735.0	1530.0	5.0	37.0
+933	Nissan	Magnite XL	625000	2021	28000	Petrol	Manual	Zirakpur	White	First	Corporate	999 cc	71 bhp @ 6250 rpm	96 Nm @ 3500 rpm	FWD	3994.0	1758.0	1572.0	5.0	40.0
+934	Maruti Suzuki	Celerio ZXi [2019-2020]	475000	2019	25000	Petrol	Manual	Muzaffurpur	Grey	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+936	Hyundai	Santro Era	409999	2019	32000	Petrol	Manual	Zirakpur	Silver	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+937	Hyundai	i20 Sportz 1.2 (O)	275000	2011	45000	Petrol	Manual	Delhi	White	First	Individual									
+941	Maruti Suzuki	Ignis Zeta 1.2 AMT	545000	2017	22000	Petrol	Automatic	Delhi	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3700.0	1690.0	1595.0	5.0	32.0
+943	Mercedes-Benz	E-Class E 200	2400000	2016	60000	Petrol	Automatic	Nashik	Black	Second	Individual	1991 cc	184 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4879.0	1854.0	1474.0	5.0	80.0
+945	Maruti Suzuki	Swift VXi	465000	2014	75000	Petrol	Manual	Mohali	White	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+948	Honda	WR-V VX MT Petrol	795000	2018	45326	Petrol	Manual	Mumbai	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+951	Mercedes-Benz	GLA 200 Sport	2250000	2015	43200	Petrol	Automatic	Pune	Silver	First	Corporate	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	FWD	4424.0	1804.0	1494.0	5.0	50.0
+952	Honda	City VX CVT Petrol [2017-2019]	1050000	2017	29386	Petrol	Automatic	Bangalore	Silver	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+953	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	765000	2021	18105	Petrol	Manual	Bangalore	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+956	Maruti Suzuki	Eeco 7 STR [2019-2020]	509999	2019	40000	Petrol	Manual	Thane	Silver	First	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	7.0	40.0
+959	Honda	City 1.5 V AT	495000	2012	65001	Petrol	Automatic	Pune	Red	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+961	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	495000	2018	45000	Petrol	Manual	Mumbai	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+967	Hyundai	Santro Sportz AMT [2018-2020]	434999	2019	34400	Petrol	Automatic	Ranchi	Silver	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+968	Hyundai	Venue SX (O) 1.0 Turbo iMT	1070000	2021	8800	Petrol	Manual	Delhi	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+969	Honda	City ZX CVT Petrol	1530000	2022	2000	Petrol	Automatic	Delhi	Grey	First	Individual	1498 cc	119 bhp @ 6600 rpm	145 Nm @ 4300 rpm	FWD	4549.0	1748.0	1489.0	5.0	40.0
+971	Hyundai	Verna 1.6 VTVT SX	645000	2016	45000	Petrol	Manual	Delhi	White	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4375.0	1700.0	1475.0	5.0	43.0
+975	Honda	City V Petrol	1095000	2022	2700	Petrol	Manual	Delhi	Silver	First	Individual	1497 cc	118 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+977	Rolls-Royce	Ghost 6.5	18000000	2011	60000	Petrol	Automatic	Mumbai	Maroon	Second	Corporate	6592 cc	570 bhp @ 5250 rpm	780 Nm @ 1500 rpm	RWD	5399.0	1948.0	1550.0	5.0	82.5
+979	Skoda	Superb L&K TSI AT	1500000	2016	70000	Petrol	Automatic	Raipur	White	Second	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4861.0	1864.0	1483.0	5.0	66.0
+982	Honda	City V	850000	2018	52890	Petrol	Manual	Gurgaon	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+984	Hyundai	Elite i20 Asta 1.2	675000	2017	48591	Petrol	Manual	Hyderabad	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+986	Hyundai	Eon Era +	210000	2014	48000	Petrol	Manual	Lucknow	Red	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+987	Tata	Nexon XM	760000	2018	20251	Petrol	Manual	Pune	Grey	First	Individual	1198 cc	108 bhp @ 5000 rpm	170 Nm @ 1750 rpm	FWD	3994.0	1811.0	1607.0	5.0	44.0
+989	Maruti Suzuki	Swift VXi	340000	2013	66000	Petrol	Manual	Meerut	White	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+991	Nissan	Teana 250XL	550000	2013	33000	Petrol	Automatic	Pune	Red	First	Individual									
+992	Honda	City S Petrol	695000	2017	51292	Petrol	Manual	Thane	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+994	Toyota	Glanza V	735000	2019	55000	Petrol	Manual	Jaipur	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+995	Mercedes-Benz	E-Class E 200 Avantgarde	1300000	1988	71000	Petrol	Automatic	Dehradun	Red	Third	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	5063.0	1860.0	1494.0	5.0	80.0
+997	Honda	City V	685000	2016	68500	Petrol	Manual	Ahmedabad	Bronze	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1000	Toyota	Glanza G	700000	2019	19244	Petrol	Manual	Zirakpur	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+1001	Maruti Suzuki	Wagon R VXi 1.2	550000	2020	19000	Petrol	Manual	Varanasi	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3655.0	1620.0	1675.0	5.0	32.0
+1005	Maruti Suzuki	Swift VXi	425000	2015	80000	Petrol	Manual	Noida	White	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1006	Lexus	NX 300h Luxury [2017-2020]	4375000	2018	54500	Petrol	Automatic	Delhi	Black	Second	Individual	2494 cc	194 bhp @ 5700 rpm	210 Nm @ 4200 rpm	AWD	4640.0	1845.0	1645.0	5.0	56.0
+1008	Mercedes-Benz	GLC 200 Progressive	6600000	2021	16785	Petrol	Automatic	Bangalore	White	First	Individual	1991 cc	194 bhp @ 5500 rpm	320 Nm @ 1650 rpm	RWD	4658.0	1890.0	1644.0	5.0	66.0
+1011	Hyundai	Elite i20 Sportz 1.2 [2016-2017]	695000	2019	42678	Petrol	Manual	Mumbai	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1012	Honda	City 1.5 V AT	245000	2010	95000	Petrol	Automatic	Gurgaon	Grey	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1014	Volkswagen	Taigun Highline 1.0 TSI AT	1500000	2021	31000	Petrol	Automatic	Hyderabad	Silver	First	Individual	999 cc	114 bhp @ 5000 rpm	178 Nm @ 1750 rpm	FWD	4221.0	1760.0	1612.0	5.0	50.0
+1015	Maruti Suzuki	Alto VXi	270000	2014	82682	Petrol	Manual	Pune	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1017	MG	Hector Plus Sharp 1.5 DCT Petrol	1875000	2021	10000	Petrol	Automatic	Faridabad	Red	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm	FWD	4720.0	1835.0	1760.0	6.0	60.0
+1018	Renault	Kwid RXT [2015-2019]	254999	2016	57159	Petrol	Manual	Varanasi	Silver	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1022	Honda	City 1.5 V AT	475000	2012	40000	Petrol	Automatic	Pune	Red	Second	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+1023	Hyundai	Elite i20 Sportz 1.2 (O)	650000	2020	58100	Petrol	Manual	Lucknow	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1027	Mercedes-Benz	C-Class C 200 Avantgarde	2385000	2015	60921	Petrol	Automatic	Pune	Black	Second	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+1029	Hyundai	Verna Fluidic 1.6 VTVT SX Opt	380000	2012	53000	Petrol	Manual	Mumbai	Grey	First	Corporate	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1030	Renault	Kwid 1.0 RXT [2016-2019]	295000	2016	34736	Petrol	Manual	Hyderabad	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1033	Volkswagen	Vento Highline Petrol	275000	2011	80000	Petrol	Manual	Delhi	White	Second	Individual									
+1034	Audi	A3 35 TFSI Premium Plus	2180000	2018	77590	Petrol	Automatic	Delhi	Blue	First	Individual	1395 cc	148 bhp @ 5000 rpm	250 Nm @ 1500 rpm	FWD	4456.0	1796.0	1416.0	5.0	50.0
+1035	Ford	Mustang GT Fastback 5.0L v8	8000000	2017	25000	Petrol	Automatic	Chennai	Black	Third	Individual	4951 cc	396 bhp @ 6500 rpm	515 Nm @ 4250 rpm	RWD	4784.0	2080.0	1391.0	4.0	60.9
+1039	Maruti Suzuki	DZire ZXi Plus AMT	735000	2018	42000	Petrol	Automatic	Mumbai	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+1040	Skoda	Rapid Style 1.6 MPI AT	900000	2018	55000	Petrol	Automatic	Pune	Grey	Second	Individual	1598 cc	104 bhp @ 5200 rpm	153 Nm @ 3750 rpm	FWD	4413.0	1699.0	1466.0	5.0	55.0
+1041	Skoda	Superb Elegance 1.8 TSI AT	795000	2014	53000	Petrol	Automatic	Delhi	White	Second	Individual	1798 cc	158 bhp @ 4500 rpm	250 Nm @ 1500 rpm	FWD	4838.0	1817.0	1482.0	5.0	60.0
+1046	Lexus	LX SUV Petrol	2100000	2007	34000	Petrol	Automatic	Mumbai	Maroon	Second	Corporate									
+1049	Porsche	Macan S [2019-2020]	7500000	2020	38000	Petrol	Automatic	Ahmedabad	Blue	First	Individual	2995 cc	349 bhp @ 5400 rpm	480 Nm @ 1360 rpm	AWD	4696.0	1923.0	1624.0	5.0	65.0
+1051	Maruti Suzuki	Wagon R VXI	390000	2018	66794	Petrol	Manual	Kolkata	Others	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+1052	Porsche	Macan Base [2019-2020]	9000000	2019	27000	Petrol	Automatic	Hyderabad	Red	First	Corporate	1984 cc	248 bhp @ 5000 rpm	370 Nm @ 1600 rpm	AWD	4696.0	1923.0	1624.0	5.0	65.0
+1053	Maruti Suzuki	Baleno Zeta 1.2 AT	675000	2017	35616	Petrol	Automatic	Pune	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1054	Maruti Suzuki	Eeco 5 STR [2014-2019]	320000	2015	64000	Petrol	Manual	Ranchi	Blue	First	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	5.0	40.0
+1055	Maruti Suzuki	Baleno Zeta 1.2 AT	840000	2020	7000	Petrol	Automatic	Chennai	Maroon	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1056	Maruti Suzuki	Wagon R VXI	310000	2015	45000	Petrol	Manual	Ranchi	Brown	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+1057	Maruti Suzuki	Ertiga LXI	795000	2017	9000	Petrol	Manual	Delhi	Grey	First	Individual	1373 cc	94 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4296.0	1695.0	1685.0	7.0	45.0
+1059	Toyota	Glanza G	860000	2021	11030	Petrol	Manual	Bangalore	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+1060	Hyundai	i10 Magna 1.2 Kappa2	390000	2015	49123	Petrol	Manual	Patna	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1063	Mercedes-Benz	S-Class 280 AT	1200000	2000	65000	Petrol	Automatic	Dehradun	Yellow	Second	Individual									
+1065	Maruti Suzuki	S-Presso VXi	475000	2021	7942	Petrol	Manual	Thane	Red	First	Individual	998 cc	67 bhp @ 5500 rpm	90 Nm @ 3500 rpm	FWD	3565.0	1520.0	1564.0	5.0	27.0
+1066	Maruti Suzuki	Alto 800 Lxi	265000	2017	52100	Petrol	Manual	Lucknow	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1070	Jeep	Compass Sport 1.4 Petrol	1748999	2021	25700	Petrol	Manual	Karnal	Black	First	Corporate	1368 cc	160 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4395.0	1818.0	1640.0	5.0	60.0
+1072	Hyundai	Elite i20 Asta 1.2 (O) [2016]	690000	2017	17268	Petrol	Manual	Nashik	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1073	Maruti Suzuki	Baleno Zeta 1.2	561000	2017	68000	Petrol	Manual	Noida	Brown	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1074	Hyundai	i20 Asta 1.2	299000	2011	30000	Petrol	Manual	Panvel	Blue	Third	Individual									
+1076	Maruti Suzuki	Swift DZire VXI AT	595000	2017	44100	Petrol	Automatic	Mumbai	Silver	First	Corporate	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1078	Hyundai	i20 Asta 1.2	235000	2009	115000	Petrol	Manual	Coimbatore	Blue	Third	Individual	1197 cc	80@5200	112@4000		3940.0	1710.0	1505.0	5.0	45.0
+1079	Hyundai	i20 Magna (O) 1.2	450000	2014	23000	Petrol	Manual	Ahmedabad	Brown	First	Individual	1197 cc	83 bhp @ 6000 rpm	113.796 Nm @ 4000 rpm	FWD	3995.0	1710.0	1505.0	5.0	45.0
+1083	Kia	Seltos GTX Plus 1.4 DCT	1850000	2020	7000	Petrol	Automatic	Bangalore	Black	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+1084	Hyundai	Elantra SX (O) 2.0 AT	1175000	2017	24000	Petrol	Automatic	Mumbai	White	First	Individual	1999 cc	150 bhp @ 6200 rpm	192 Nm @ 4000 rpm	FWD	4620.0	1800.0	1465.0	5.0	50.0
+1085	Maruti Suzuki	Wagon R VXi	250000	2012	68000	Petrol	Manual	Kanpur	White	First	Individual	998 cc	68@6200	90@3500		3539.0	1495.0	1700.0	5.0	35.0
+1086	Hyundai	Accent Executive	400000	2015	41273	Petrol	Manual	Mumbai	White	First	Individual	1495 cc	94 bhp @ 5500 rpm	125 Nm @ 3500 rpm	FWD	4250.0	1670.0	1370.0	5.0	45.0
+1089	Hyundai	i10 Sportz 1.2 Kappa2	395000	2016	28000	Petrol	Manual	Mumbai	Maroon	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1090	Maruti Suzuki	S-Presso VXi Plus	425000	2021	38848	Petrol	Manual	Panchkula	Silver	First	Individual	998 cc	67 bhp @ 5500 rpm	90 Nm @ 3500 rpm	FWD	3565.0	1520.0	1564.0	5.0	27.0
+1093	Maruti Suzuki	Swift DZire LXI (O)	421000	2017	69000	Petrol	Manual	Faridabad	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1094	Hyundai	i20 Active 1.2 SX	560000	2016	22700	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1760.0	1555.0	5.0	45.0
+1095	Honda	Civic 1.8V MT	777000	2014	9212	Petrol	Manual	Patna	Grey	First	Individual									
+1098	Maruti Suzuki	Ciaz Alpha 1.4 MT	899000	2018	13066	Petrol	Manual	Bangalore	Grey	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1100	Maruti Suzuki	S-Presso VXi (O)	425000	2019	53241	Petrol	Manual	Mirzapur	Grey	First	Individual	998 cc	67 bhp @ 5500 rpm	90 Nm @ 3500 rpm	FWD	3565.0	1520.0	1564.0	5.0	27.0
+1101	MINI	Countryman Cooper S JCW Inspired	3875000	2021	12000	Petrol	Automatic	Delhi	Green	First	Individual	1998 cc	189 bhp @ 4400 rpm	280 Nm @ 1350 rpm	FWD	4299.0	1822.0	1557.0	5.0	47.0
+1102	Honda	City 1.5 S MT	500000	2013	65000	Petrol	Manual	Chennai	Brown	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+1104	Toyota	Innova 2.7 ZX AT 7 STR	1789999	2017	49000	Petrol	Automatic	Delhi	Maroon	Second	Individual	2694 cc	164 bhp @ 5200 rpm	245 Nm @ 4000 rpm	RWD	4735.0	1830.0	1795.0	7.0	65.0
+1105	Hyundai	Eon 1.0 Kappa Magna + [2014-2016]	240000	2013	64000	Petrol	Manual	Faizabad	White	First	Individual	998 cc	68 bhp @ 6200 rpm	94 Nm @ 3500 rpm	FWD	3515.0	1500.0	1510.0	5.0	32.0
+1106	Volkswagen	Polo Comfortline 1.2L (P)	240000	2010	78000	Petrol	Manual	Ludhiana	White	Second	Individual									
+1108	Maruti Suzuki	Baleno Alpha Automatic	775000	2018	39000	Petrol	Automatic	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+1110	Hyundai	Grand i10 Magna AT 1.2 Kappa VTVT	549000	2018	53000	Petrol	Automatic	Hyderabad	White	Second	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1113	Hyundai	Elite i20 Sportz 1.2 [2016-2017]	645000	2019	35000	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1116	Honda	City V CVT Petrol [2017-2019]	1340000	2021	11000	Petrol	Automatic	Mumbai	Black	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1117	Maruti Suzuki	Swift ZXi Plus [2018-2019]	840000	2020	11000	Petrol	Manual	Bangalore	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3840.0	1735.0	1530.0	5.0	37.0
+1118	Maruti Suzuki	Swift DZire VXI	525000	2014	102000	Petrol	Manual	Salem	Grey	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1119	Maruti Suzuki	Eeco 7 STR STD (O)	625000	2022	7000	Petrol	Manual	Hyderabad	Grey	First	Individual	1196 cc	72 bhp @ 6000 rpm	98 Nm @ 3000 rpm	RWD	3675.0	1475.0	1825.0	7.0	40.0
+1120	Hyundai	Eon Sportz	215000	2012	20000	Petrol	Manual	Mumbai	Grey	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1121	Hyundai	Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018]	595000	2019	25000	Petrol	Manual	Hyderabad	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1122	Audi	A4 Premium Plus 40 TFSI	4150000	2022	22000	Petrol	Automatic	Delhi	White	First	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1450 rpm	FWD	4762.0	1847.0	1433.0	5.0	54.0
+1124	Ford	Ecosport Titanium 1.5 Ti-VCT	550000	2013	47000	Petrol	Manual	Indore	Black	First	Individual	1499 cc	109 bhp @ 6300 rpm	140 Nm @ 4400 rpm	FWD	3999.0	1765.0	1708.0	5.0	52.0
+1129	Volkswagen	Polo Comfortline 1.2L (P)	565000	2014	72782	Petrol	Manual	Bangalore	Grey	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+1130	Maruti Suzuki	Alto VXi [2014-2019]	369000	2017	16800	Petrol	Manual	Mumbai	Grey	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+1131	Toyota	Yaris V CVT	1090000	2019	40900	Petrol	Automatic	Pune	Red	First	Corporate	1496 cc	106 bhp @ 6000 rpm	140 Nm @ 4200 rpm	FWD	4425.0	1730.0	1495.0	5.0	42.0
+1132	Honda	WR-V VX MT Petrol	580000	2017	39000	Petrol	Manual	Guwahati	White	First	Corporate	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+1135	Honda	Amaze 1.2 SX i-VTEC	540000	2017	38700	Petrol	Manual	Meerut	Maroon	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1136	Maruti Suzuki	XL6 Zeta MT Petrol	1245000	2021	7239	Petrol	Manual	Udupi	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+1137	BMW	3-Series 330i M Sport Edition	4749000	2020	14000	Petrol	Automatic	Mumbai	White	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	RWD	4633.0	1811.0	1429.0	5.0	57.0
+1138	Hyundai	Grand i10 Sports Edition 1.2L Kappa VTVT	365000	2014	76000	Petrol	Manual	Ernakulam	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1142	Tata	Tiago Revotron XM (O) [2016-2019]	400000	2018	91460	Petrol	Manual	Kanpur	Black	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+1147	Volkswagen	Vento Highline Plus 1.2 (P) AT 16 Alloy	775000	2017	60500	Petrol	Automatic	Surat	White	First	Individual	1197 cc	103 bhp @ 5000 rpm	175 Nm @ 1500 rpm	FWD	4390.0	1699.0	1467.0	5.0	55.0
+1152	Toyota	Corolla Altis 1.8 G	375000	2011	77000	Petrol	Manual	Faridabad	Silver	First	Individual	1794 cc	132@6000	170@4200	FWD	4540.0	1760.0	1480.0	5.0	55.0
+1153	Hyundai	Verna Fluidic 1.6 VTVT SX AT	645000	2015	58200	Petrol	Automatic	Mumbai	Silver	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1155	Maruti Suzuki	Celerio ZXi	509999	2015	42000	Petrol	Manual	Bangalore	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1156	Hyundai	Elantra 1.8 SX AT	545000	2013	63000	Petrol	Automatic	Mumbai	Silver	First	Individual	1797 cc	147 bhp @ 6500 rpm	177 Nm @ 4700 rpm	FWD	4530.0	1775.0	1470.0	5.0	56.0
+1157	Honda	City V	835000	2018	42855	Petrol	Manual	Pune	Brown	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1159	Maruti Suzuki	Celerio VXi [2019-2020]	540000	2019	34000	Petrol	Manual	Chennai	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+1160	Kia	Seltos HTK Plus 1.5 iMT	1475000	2022	9500	Petrol	Manual	Delhi	White	First	Individual	1497 cc	113 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4315.0	1800.0	1637.0	5.0	50.0
+1163	Hyundai	Verna Fluidic 1.6 VTVT SX Opt AT	475000	2014	72900	Petrol	Automatic	Mumbai	Blue	Second	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1164	Audi	Q8 Celebration	9900000	2021	28000	Petrol	Automatic	Hyderabad	Silver	First	Individual	2995 cc	335 bhp @ 5000 rpm	500 Nm @ 1370 rpm	AWD	4986.0	1995.0	1705.0	5.0	85.0
+1165	Maruti Suzuki	Swift LXi	650000	2022	6000	Petrol	Manual	Delhi	White	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3845.0	1735.0	1530.0	5.0	37.0
+1167	Hyundai	i10 Sportz 1.2 AT Kappa2	370000	2013	41000	Petrol	Automatic	Pune	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1168	Honda	City VX (O) MT BL	875000	2018	50000	Petrol	Manual	Patna	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1171	Jeep	Compass Model S (O) 1.4 Petrol DCT	2700000	2021	17000	Petrol	Automatic	Delhi	Blue	First	Individual	1368 cc	161 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4405.0	1818.0	1640.0	5.0	60.0
+1173	Maruti Suzuki	Wagon R VXi 1.0 [2019-2019]	540000	2021	22000	Petrol	Manual	Gorakhpur	White	First	Individual					3655.0	1620.0	1675.0	5.0	32.0
+1174	Skoda	Rapid Style 1.6 MPI AT	1099000	2018	20690	Petrol	Automatic	Bangalore	Red	First	Individual	1598 cc	104 bhp @ 5200 rpm	153 Nm @ 3750 rpm	FWD	4413.0	1699.0	1466.0	5.0	55.0
+1176	Hyundai	Creta 1.6 SX Plus AT Petrol	1299000	2018	50000	Petrol	Automatic	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1178	BMW	X6 xDrive40i M Sport	10800000	2021	20000	Petrol	Automatic	Chandigarh	Red	First	Individual	2998 cc	335 bhp @ 5500 rpm	450 Nm @ 1500 rpm	AWD	4935.0	2004.0	1696.0	5.0	83.0
+1179	Maruti Suzuki	XL6 Alpha AT Petrol	1190000	2020	47248	Petrol	Automatic	Jaipur	Blue	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+1180	Tata	Tigor XZA Plus	795000	2021	9000	Petrol	Automatic	Pune	Brown	First	Individual	1199 cc	84 bhp @ 6000 rpm	113 Nm @ 3300 rpm	FWD	3993.0	1677.0	1532.0	5.0	35.0
+1183	Hyundai	Creta E Plus 1.6 Petrol	1050000	2018	34841	Petrol	Manual	Hyderabad	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+1184	Hyundai	i20 Magna 1.2	385000	2014	46000	Petrol	Manual	Hyderabad	Maroon	First	Individual	1197 cc	83 bhp @ 6000 rpm	113.796 Nm @ 4000 rpm	FWD	3995.0	1710.0	1505.0	5.0	45.0
+1187	Maruti Suzuki	Swift VXi [2014-2017]	625000	2020	58736	Petrol	Manual	Kollam	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1188	Maruti Suzuki	Ciaz Alpha Hybrid 1.5 [2018-2020]	910000	2019	34000	Petrol	Manual	Delhi	Blue	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1190	Hyundai	Elite i20 Magna 1.2 [2016-2017]	585000	2017	47000	Petrol	Manual	Delhi	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1192	Hyundai	Elite i20 Asta 1.2 IVT	1075000	2021	12020	Petrol	Automatic	Mumbai	White	First	Individual	1197 cc	87 bhp @ 6000 rpm	115 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+1201	Datsun	Go Plus T	335000	2017	34000	Petrol	Manual	Lucknow	Brown	First	Individual	1198 cc	67 bhp @ 5000 rpm	104 Nm @ 4000 rpm	FWD	3995.0	1635.0	1490.0	7.0	35.0
+1202	Hyundai	Venue SX 1.0 Turbo iMT	1185000	2021	10700	Petrol	Manual	Jaipur	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+1203	Hyundai	Elite i20 Sportz 1.2 IVT	894999	2021	25000	Petrol	Automatic	Mumbai	White	First	Individual	1197 cc	87 bhp @ 6000 rpm	115 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+1204	Honda	Amaze 1.2 S CVT Petrol [2018-2020]	650000	2019	54000	Petrol	Automatic	Varanasi	White	Second	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+1208	Skoda	Kushaq Style 1.0L TSI MT	1600000	2022	1300	Petrol	Manual	Mumbai	Red	First	Individual	999 cc	114 bhp @ 5000 rpm	178 Nm @ 1750 rpm	FWD	4225.0	1760.0	1612.0	5.0	50.0
+1209	Hyundai	Verna 1.6 VTVT SX (O)	1175000	2019	20000	Petrol	Manual	Delhi	Black	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4375.0	1700.0	1475.0	5.0	43.0
+1214	Maruti Suzuki	Swift VXi [2014-2017]	695000	2019	46027	Petrol	Manual	Hyderabad	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1215	Toyota	Yaris J CVT [2018-2020]	875000	2018	23148	Petrol	Automatic	Bangalore	Red	First	Individual	1496 cc	106 bhp @ 6000 rpm	140 Nm @ 4200 rpm	FWD	4425.0	1730.0	1495.0	5.0	42.0
+1216	Skoda	Octavia 1.8 TSI Style Plus AT [2017]	1495000	2017	28000	Petrol	Automatic	Mumbai	Grey	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4670.0	1814.0	1476.0	5.0	50.0
+1217	Maruti Suzuki	Swift ZXi AMT [2018-2019]	725000	2019	11874	Petrol	Automatic	Pune	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3840.0	1735.0	1530.0	5.0	37.0
+1218	Hyundai	Creta E Plus 1.6 Petrol	875000	2017	50000	Petrol	Manual	Mumbai	Silver	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1223	Honda	City V	600000	2014	75574	Petrol	Manual	Jaipur	Others	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1225	Hyundai	i10 Sportz 1.2 Kappa2	315000	2012	75000	Petrol	Manual	Pune	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1226	Ford	Ecosport Trend 1.5 Ti-VCT	775000	2019	14095	Petrol	Manual	Delhi	White	First	Individual	1499 cc	109 bhp @ 6300 rpm	140 Nm @ 4400 rpm	FWD	3999.0	1765.0	1708.0	5.0	52.0
+1230	Maruti Suzuki	Swift VXi [2014-2017]	520000	2018	40000	Petrol	Manual	Patna	Grey	Second	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1237	Skoda	Kushaq Style 1.0L TSI AT	1625000	2021	7900	Petrol	Automatic	Pune	Silver	First	Individual	999 cc	114 bhp @ 5000 rpm	178 Nm @ 1750 rpm	FWD	4225.0	1760.0	1612.0	5.0	50.0
+1240	Skoda	Octavia 1.8 TSI Style Plus AT [2017]	1300000	2016	55000	Petrol	Automatic	Hyderabad	Grey	Second	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4670.0	1814.0	1476.0	5.0	50.0
+1242	Maruti Suzuki	Swift LXi	450000	2017	65000	Petrol	Manual	Kanpur	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1244	Maruti Suzuki	Alto 800 Lxi	280000	2018	48000	Petrol	Manual	Kanpur	Silver	Second	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1245	Maruti Suzuki	Wagon R LXI ABS	425000	2018	18000	Petrol	Manual	Delhi	Grey	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3599.0	1495.0	1700.0	5.0	35.0
+1246	Rolls-Royce	Ghost Extended Wheelbase	20000000	2011	27000	Petrol	Automatic	Delhi	Blue	Third	Individual	6592 cc	570 bhp @ 5250 rpm	780 Nm @ 1500 rpm	RWD	5569.0	1948.0	1550.0	5.0	82.5
+1251	Maruti Suzuki	Swift DZire VXI	500000	2016	26000	Petrol	Manual	Delhi	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1252	Maruti Suzuki	Celerio VXi AMT	390000	2015	70000	Petrol	Automatic	Ahmedabad	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1255	Hyundai	i10 Magna 1.2 Kappa2	250000	2012	54556	Petrol	Manual	Lucknow	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1256	Maruti Suzuki	DZire VXi	685000	2019	74000	Petrol	Manual	Pune	Blue	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+1257	Renault	Kwid RXT [2015-2019]	320000	2016	64000	Petrol	Manual	Mohali	Silver	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1259	Maruti Suzuki	Swift VXi [2014-2017]	600000	2018	54000	Petrol	Manual	Mohali	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1260	Jeep	Compass Longitude (O) 1.4 Petrol AT [2019-2020]	1750000	2019	57000	Petrol	Automatic	Hyderabad	Silver	First	Individual	1368 cc	160 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4395.0	1818.0	1640.0	5.0	60.0
+1263	Toyota	Corolla Altis 1.8 G	390000	2009	68195	Petrol	Manual	Ahmedabad	White	First	Individual	1794 cc	132@6000	170@4200	FWD	4540.0	1760.0	1480.0	5.0	55.0
+1264	Maruti Suzuki	Ciaz Delta 1.4 MT	755000	2017	57000	Petrol	Manual	Delhi	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1265	Hyundai	Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022]	1825000	2021	45000	Petrol	Automatic	Delhi	White	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+1266	Maruti Suzuki	Celerio VXi AMT	416000	2014	60116	Petrol	Automatic	Bangalore	Grey	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1268	Maruti Suzuki	Wagon R LXi Minor	218000	2008	51000	Petrol	Manual	Coimbatore	Gold	Second	Individual	1061 cc	67@6200	84@3500	FWD	3520.0	1475.0	1690.0	5.0	35.0
+1274	BMW	X1 sDrive20i xLine	3990000	2021	12500	Petrol	Automatic	Delhi	White	First	Individual	1998 cc	189 bhp @ 5000 rpm	280 Nm @ 1350 rpm	FWD	4447.0	1821.0	1598.0	5.0	51.0
+1275	Porsche	718 Boxster	10900000	2018	6300	Petrol	Automatic	Hyderabad	Grey	First	Corporate	1988 cc	295 bhp @ 6500 rpm	380 Nm @ 2150 rpm	RWD	4379.0	1801.0	1281.0	2.0	54.0
+1276	Maruti Suzuki	Swift DZire VXi	245000	2009	114000	Petrol	Manual	Mumbai	Gold	First	Individual	1298 cc	87@6000	113@4500	FWD	4160.0	1690.0	1530.0	5.0	43.0
+1277	Maruti Suzuki	Celerio LXi	260000	2015	25862	Petrol	Manual	Kolkata	Blue	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1281	Honda	City V	745000	2016	38000	Petrol	Manual	Gurgaon	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1284	Honda	Amaze 1.2 S MT Petrol [2018-2020]	675000	2019	74237	Petrol	Manual	Nashik	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+1286	Maruti Suzuki	Alto 800 Lxi	340000	2016	52303	Petrol	Manual	Bhopal	Grey	First	Commercial Registration	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1287	Maruti Suzuki	Baleno Alpha 1.2	620000	2019	42356	Petrol	Manual	Varanasi	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1290	Hyundai	Verna SX Plus 1.6 VTVT AT	1149000	2019	26894	Petrol	Automatic	Hyderabad	Black	First	Individual	1591 cc	121 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4440.0	1729.0	1475.0	5.0	45.0
+1293	Hyundai	i10 Magna	235000	2009	107000	Petrol	Manual	Coimbatore	Grey	Third	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1296	Lexus	ES 300h	4375000	2017	31059	Petrol	Automatic	Bangalore	Brown	First	Individual	2494 cc	202 bhp @ 5700 rpm	213 Nm @ 4500 rpm	RWD	4915.0	1820.0	1450.0	5.0	65.0
+1302	Maruti Suzuki	Alto VXi	320000	2014	54000	Petrol	Manual	Mohali	White	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1307	MG	Hector Sharp 1.5 DCT Petrol Dual Tone	1750000	2021	33000	Petrol	Automatic	Ahmedabad	Black	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm	FWD	4655.0	1835.0	1760.0	5.0	60.0
+1314	Hyundai	Grand i10 Asta AT 1.2 Kappa VTVT (O) [2016-2017]	650000	2017	49422	Petrol	Automatic	Pune	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1315	MG	Hector Plus Smart 1.5 DCT Petrol	1925000	2021	19000	Petrol	Automatic	Mumbai	Silver	First	Corporate	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm	FWD	4720.0	1835.0	1760.0	6.0	60.0
+1316	Honda	City SV CVT	590000	2015	75258	Petrol	Automatic	Mumbai	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1320	Volkswagen	Polo Highline1.2L (P)	325000	2013	53000	Petrol	Manual	Meerut	Red	Second	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+1323	Maruti Suzuki	Alto LXi BS-III	140000	2009	65000	Petrol	Manual	Yamunanagar	Silver	Third	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+1324	Maruti Suzuki	Baleno Zeta 1.2	750000	2021	58000	Petrol	Manual	Varanasi	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1328	Hyundai	Venue SX Plus 1.0 Turbo DCT	1075000	2019	28000	Petrol	Automatic	Chennai	Blue	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+1329	Hyundai	Grand i10 Magna AT 1.2 Kappa VTVT	650000	2019	15000	Petrol	Automatic	Chandigarh	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1330	Honda	Amaze 1.2 S i-VTEC	425000	2014	53610	Petrol	Manual	Gurgaon	White	Second	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1332	Maruti Suzuki	XL6 Zeta MT Petrol	1225000	2022	16000	Petrol	Manual	Delhi	Grey	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+1334	Volkswagen	Polo Trendline 1.2L (P)	345000	2011	101923	Petrol	Manual	Bangalore	White	Second	Individual									
+1337	Hyundai	Santro GLS	141000	2009	56400	Petrol	Manual	Jamshedpur	Silver	Third	Individual	1086 cc	62 bhp @ 5500 rpm	96 Nm @ 3000 rpm	FWD	3565.0	1525.0	1590.0	5.0	35.0
+1343	Hyundai	Eon Magna +	405000	2018	34000	Petrol	Manual	Hyderabad	Red	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1345	Honda	City SV	875000	2019	36000	Petrol	Manual	Pune	Bronze	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1346	Maruti Suzuki	Swift VXi	355000	2014	68005	Petrol	Manual	Ranchi	White	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1349	Hyundai	Elite i20 Magna 1.2 [2016-2017]	625000	2019	31000	Petrol	Manual	Kanpur	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1350	Datsun	Redigo T(O) 1.0	425000	2020	7520	Petrol	Manual	Bangalore	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3429.0	1560.0	1541.0	5.0	28.0
+1351	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2016-2017]	550000	2015	58078	Petrol	Manual	Mysore	Silver	Second	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1355	Hyundai	Creta SX (O) 1.4 Turbo 7 DCT Dual Tone [2022-2022]	1750000	2022	23000	Petrol	Automatic	Delhi	White	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+1357	Hyundai	Xcent S 1.2 (O)	425000	2015	11628	Petrol	Manual	Kolkata	Black	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1660.0	1520.0	5.0	43.0
+1361	Audi	A3 40 TFSI Premium	1760000	2017	48000	Petrol	Automatic	Delhi	White	First	Individual	1798 cc	178 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4456.0	1796.0	1416.0	5.0	50.0
+1363	Maruti Suzuki	Swift LXi	301000	2011	28513	Petrol	Manual	Ahmedabad	Others	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1366	Hyundai	Eon Magna [2011-2012]	185000	2012	55700	Petrol	Manual	Jamshedpur	Silver	Second	Individual	814 cc	56@5500	75@4000		3495.0	1550.0	1500.0	5.0	32.0
+1367	Maruti Suzuki	Alto 800 Lxi	285000	2017	45600	Petrol	Manual	Jamshedpur	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1369	Rolls-Royce	Ghost Extended Wheelbase	20000000	2012	55000	Petrol	Automatic	Chennai	White	Third	Individual	6592 cc	570 bhp @ 5250 rpm	780 Nm @ 1500 rpm	RWD	5569.0	1948.0	1550.0	5.0	82.5
+1371	Skoda	Superb Style TSI AT	1650000	2017	52458	Petrol	Automatic	Mumbai	Black	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4861.0	1864.0	1483.0	5.0	66.0
+1373	Tata	Tiago Revotron XE [2016-2019]	395000	2017	46992	Petrol	Manual	Gurgaon	White	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+1374	Honda	Jazz V Petrol	500000	2016	54440	Petrol	Manual	Mumbai	Silver	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1377	Audi	A4 1.8 TFSI Multitronic Premium Plus	3125000	2020	28600	Petrol	Automatic	Lucknow	White	First	Individual	1798 cc	170 bhp @ 3800 rpm	320 Nm @ 1400 rpm	FWD	4701.0	1826.0	1427.0	5.0	63.0
+1381	Maruti Suzuki	Ciaz Delta 1.4 MT	565000	2017	64000	Petrol	Manual	Ranchi	Brown	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1382	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	550000	2018	56000	Petrol	Manual	Hyderabad	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1383	Hyundai	Santro XO eRLX - Euro III	178000	2007	85000	Petrol	Manual	Coimbatore	Silver	Second	Individual	1086 cc	63@5500	89@3000		3565.0	1525.0	1590.0	5.0	35.0
+1386	Tata	Tigor Revotron XM	375000	2018	48144	Petrol	Manual	Kolkata	Grey	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3992.0	1677.0	1537.0	5.0	35.0
+1388	Porsche	Macan Base [2019-2020]	9100000	2022	9000	Petrol	Automatic	Gurgaon	Blue	First	Individual	1984 cc	248 bhp @ 5000 rpm	370 Nm @ 1600 rpm	AWD	4696.0	1923.0	1624.0	5.0	65.0
+1389	Maruti Suzuki	Alto VXi [2014-2019]	245000	2016	64000	Petrol	Manual	Ranchi	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+1392	Mercedes-Benz	A-Class A 180 Sport Petrol	1350000	2014	80000	Petrol	Automatic	Bangalore	White	Third	Individual	1595 cc	121 bhp @ 5000 rpm	200 Nm @ 1250 rpm	FWD	4292.0	1780.0	1433.0	4.0	50.0
+1394	Volkswagen	Vento Highline 1.0L TSI	1200000	2021	37230	Petrol	Manual	Hyderabad	Grey	First	Individual	999 cc	109 bhp @ 5000 rpm	175 Nm @ 1750 rpm	FWD	4390.0	1699.0	1467.0	5.0	55.0
+1395	Maruti Suzuki	Celerio VXi AMT	329000	2014	76116	Petrol	Automatic	Mumbai	Red	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1396	Honda	Civic 1.8V MT	300000	2010	83359	Petrol	Manual	Mumbai	White	First	Individual	1799 cc	130 bhp @ 6300 rpm	171.62 Nm @ 4300 rpm	FWD	4545.0	1750.0	1450.0	5.0	50.0
+1400	Skoda	Superb L&K TSI AT	2350000	2018	14120	Petrol	Automatic	Pune	Brown	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4861.0	1864.0	1483.0	5.0	66.0
+1401	Hyundai	Eon D-Lite +	250000	2014	25000	Petrol	Manual	Meerut	White	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1402	MG	Hector Plus Sharp 1.5 DCT Petrol	1950000	2020	28584	Petrol	Automatic	Hyderabad	Black	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm	FWD	4720.0	1835.0	1760.0	6.0	60.0
+1406	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	409999	2014	55000	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1408	Hyundai	i10 Magna 1.2 Kappa2	270000	2012	41200	Petrol	Manual	Mumbai	Silver	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1410	Maruti Suzuki	Swift DZire VXI	465000	2014	65000	Petrol	Manual	Ahmedabad	White	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1412	Hyundai	i10 Magna 1.2 Kappa2	350000	2011	21000	Petrol	Manual	Hyderabad	Red	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1413	Hyundai	Venue SX 1.0 Turbo iMT	900000	2020	23000	Petrol	Manual	Haldwani	Brown	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+1414	Maruti Suzuki	Swift LXi	595000	2016	26357	Petrol	Manual	Bangalore	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1415	Hyundai	Creta 1.6 SX Plus AT Petrol	1260000	2018	33500	Petrol	Automatic	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1420	Maruti Suzuki	Baleno Delta 1.2	636000	2021	35500	Petrol	Manual	Ranchi	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1423	Maruti Suzuki	Celerio X Vxi AMT [2017-2019]	434000	2017	50000	Petrol	Automatic	Dehradun	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3715.0	1635.0	1565.0	5.0	35.0
+1426	Mercedes-Benz	GLA 200 Sport	3100000	2019	24000	Petrol	Automatic	Delhi	Red	First	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	FWD	4424.0	1804.0	1494.0	5.0	50.0
+1429	Maruti Suzuki	Alto VXi [2014-2019]	295000	2015	31000	Petrol	Manual	Patna	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+1430	Maruti Suzuki	Eeco 7 STR [2019-2020]	450000	2018	32000	Petrol	Manual	Udupi	White	Second	Individual	1196 cc	73 bhp @ 6000 rpm	101 Nm @ 3000 rpm	RWD	3675.0	1475.0	1800.0	7.0	40.0
+1432	Lexus	ES 300h	3900000	2017	31059	Petrol	Automatic	Bangalore	Bronze	First	Individual	2494 cc	202 bhp @ 5700 rpm	213 Nm @ 4500 rpm	RWD	4915.0	1820.0	1450.0	5.0	65.0
+1436	Honda	City VX	1199000	2020	26497	Petrol	Manual	Kolkata	White	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1437	Hyundai	i10 Asta 1.2 AT Kappa2 with Sunroof	380000	2013	57000	Petrol	Automatic	Kanpur	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1439	Maruti Suzuki	Alto VXi AMT [2014-2018]	365000	2015	20100	Petrol	Automatic	Pune	Red	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+1440	Audi	A4 1.8 TFSI Multitronic Premium Plus	1000000	2010	67000	Petrol	Automatic	Dehradun	Silver	Second	Individual	1798 cc	170 bhp @ 3800 rpm	320 Nm @ 1400 rpm	FWD	4701.0	1826.0	1427.0	5.0	63.0
+1442	Hyundai	i20 Magna 1.2	245000	2011	41000	Petrol	Manual	Delhi	Red	First	Individual									
+1444	Mercedes-Benz	C-Coupe 43 AMG 4MATIC	7000000	2020	19000	Petrol	Automatic	Chennai	White	First	Individual	2996 cc	385 bhp @ 5500 rpm	520 Nm @ 2500 rpm	AWD	4693.0	1810.0	1402.0	4.0	66.0
+1450	Hyundai	Creta E Plus 1.6 Petrol	890000	2017	49000	Petrol	Manual	Pune	Grey	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1462	Maruti Suzuki	Estilo LXi BS-IV	220000	2010	62000	Petrol	Manual	Bhopal	Brown	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1475.0	1595.0	5.0	35.0
+1466	Audi	A6 35 TFSI Matrix	2850000	2017	58000	Petrol	Automatic	Delhi	Black	First	Individual	1798 cc	190 bhp @ 4200 rpm	320 Nm @ 1400 rpm	FWD	4933.0	1874.0	1455.0	5.0	75.0
+1468	Honda	City 1.5 V AT	325000	2010	56000	Petrol	Automatic	Delhi	Gold	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1469	Honda	City 1.5 V AT	325000	2011	89000	Petrol	Automatic	Mumbai	Silver	Second	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1476	Maruti Suzuki	Swift VXi [2014-2017]	550000	2018	50000	Petrol	Manual	Meerut	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1478	Tata	Tiago Revotron XZA	555000	2018	20000	Petrol	Automatic	Mumbai	Red	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3746.0	1647.0	1535.0	5.0	35.0
+1479	Maruti Suzuki	Celerio ZXi [2017-2019]	391000	2017	24000	Petrol	Manual	Patna	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1480	Maruti Suzuki	Ignis Delta 1.2 AMT	560000	2017	36000	Petrol	Automatic	Delhi	Silver	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3700.0	1690.0	1595.0	5.0	32.0
+1482	Volkswagen	Polo Highline Plus 1.0L TSI	950000	2021	24000	Petrol	Manual	Mangalore	White	First	Individual	999 cc	109 bhp @ 5000 rpm	175 Nm @ 1750 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+1483	Maruti Suzuki	Baleno Sigma 1.2	490000	2017	82000	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1486	Hyundai	Verna Fluidic 1.6 VTVT SX Opt AT	1125000	2019	50000	Petrol	Automatic	Delhi	White	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1488	Maruti Suzuki	Swift DZire VXi	260000	2009	77000	Petrol	Manual	Pune	Beige	Second	Individual	1298 cc	87@6000	113@4500	FWD	4160.0	1690.0	1530.0	5.0	43.0
+1489	Hyundai	i10 Magna 1.2	165000	2009	55000	Petrol	Manual	Lucknow	White	First	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1490	Hyundai	Xcent S 1.2	490000	2018	66000	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1660.0	1520.0	5.0	43.0
+1491	Maruti Suzuki	Alto VXi	185000	2012	37000	Petrol	Manual	Kolkata	Red	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1492	Honda	City 1.5 V MT	375000	2012	80350	Petrol	Manual	Mumbai	Silver	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+1494	Maruti Suzuki	Swift VXi [2014-2017]	450000	2016	48200	Petrol	Manual	Dehradun	Silver	Second	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1497	Hyundai	Elite i20 Sportz 1.2 MT	700000	2020	25000	Petrol	Manual	Patna	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4200 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+1498	Volkswagen	Polo Highline Plus 1.0L TSI	1025000	2020	20124	Petrol	Manual	Bangalore	Red	First	Individual	999 cc	109 bhp @ 5000 rpm	175 Nm @ 1750 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+1499	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	380000	2015	55660	Petrol	Manual	Raipur	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1500	Skoda	Octavia Style 1.8 TSI AT	819999	2015	94580	Petrol	Automatic	Kanpur	Black	First	Individual	1798 cc	177 bhp @ 4500 rpm	250 Nm @ 1250 rpm	FWD	4659.0	1814.0	1476.0	5.0	50.0
+1501	Mercedes-Benz	GLA 200 Sport	1691000	2015	45000	Petrol	Automatic	Mumbai	White	Second	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	FWD	4417.0	1804.0	1494.0	5.0	50.0
+1506	Honda	Amaze 1.2 VX MT Petrol [2018-2020]	700000	2022	1000	Petrol	Manual	Delhi	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+1512	Hyundai	i10 Magna 1.2 Kappa2	250000	2011	53000	Petrol	Manual	Kanpur	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1516	Honda	City VX	790000	2016	63088	Petrol	Manual	Jaipur	White	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1517	Hyundai	i10 Magna (O)	150000	2008	62000	Petrol	Manual	Mumbai	Red	Second	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1522	Hyundai	Verna Fluidic 1.6 VTVT SX	385000	2011	73000	Petrol	Manual	Delhi	Grey	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1524	Hyundai	Verna Fluidic 1.6 VTVT SX	547000	2013	36623	Petrol	Manual	Zirakpur	Silver	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1525	Hyundai	Creta SX 1.6 AT Petrol	1295000	2018	30000	Petrol	Automatic	Delhi	Black	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+1526	Maruti Suzuki	Wagon R VXi 1.0 [2019-2019]	570000	2022	5000	Petrol	Manual	Kanpur	White	First	Individual					3655.0	1620.0	1675.0	5.0	32.0
+1527	Honda	CR-V 2.4 AT	844999	2014	80121	Petrol	Automatic	Mumbai	White	Second	Individual									
+1528	Hyundai	i10 Sportz 1.2 Kappa2	250000	2011	64000	Petrol	Manual	Lucknow	Grey	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1529	Toyota	Corolla Altis VL AT Petrol	1670000	2019	39000	Petrol	Automatic	Ahmedabad	Brown	Second	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+1532	Maruti Suzuki	Baleno Alpha Automatic	775000	2018	40000	Petrol	Automatic	Chennai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+1533	Mercedes-Benz	E-Class 200	7050000	2022	1102	Petrol	Manual	Bangalore	Black	UnRegistered Car	Individual									
+1536	Volkswagen	Polo Highline1.2L (P)	525000	2014	43550	Petrol	Manual	Hyderabad	Orange	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3970.0	1682.0	1453.0	5.0	45.0
+1538	Renault	Kwid 1.0 RXL [2017-2019]	390000	2018	47874	Petrol	Manual	Bangalore	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1544	Maruti Suzuki	DZire ZXi AGS	950000	2022	10000	Petrol	Automatic	Mumbai	Bronze	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+1546	Maruti Suzuki	Swift VXi	409999	2014	55000	Petrol	Manual	Delhi	Grey	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1549	Maruti Suzuki	SX4 VXi	185000	2010	64000	Petrol	Manual	Delhi	Silver	First	Individual	1586 cc	102@5500	145@4200		4490.0	1735.0	1560.0	5.0	50.0
+1550	Mercedes-Benz	E-Class E200 CGI Blue Efficiency	1650000	2014	53089	Petrol	Automatic	Navi Mumbai	Silver	Second	Individual	1796 cc	186 bhp @ 5600 rpm	285 Nm @ 4000 rpm	RWD	4868.0	1854.0	1470.0	5.0	80.0
+1551	Maruti Suzuki	Ciaz Alpha Hybrid 1.5 AT [2018-2020]	823000	2018	90000	Petrol	Automatic	Bangalore	Green	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1553	Maruti Suzuki	Wagon R LXi	350000	2012	55000	Petrol	Manual	Hyderabad	Blue	First	Individual	998 cc	68@6200	90@3500		3539.0	1475.0	1700.0	5.0	35.0
+1555	Hyundai	Grand i10 Sports Edition 1.2L Kappa VTVT	649000	2020	52236	Petrol	Manual	Mangalore	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1556	Honda	City 1.5 V MT	400000	2013	76000	Petrol	Manual	Delhi	White	First	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+1557	BMW	3-Series 330i M Sport Edition	5500000	2020	19000	Petrol	Automatic	Chennai	Black	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	RWD	4633.0	1811.0	1429.0	5.0	57.0
+1562	Hyundai	Elite i20 Asta 1.2 (O) [2016]	725000	2017	36597	Petrol	Manual	Hyderabad	Red	Second	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1564	Maruti Suzuki	Ciaz VXi	575000	2015	48000	Petrol	Manual	Mumbai	Red	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1567	Maruti Suzuki	Ertiga ZXI+	725000	2016	53000	Petrol	Manual	Delhi	Grey	First	Individual	1373 cc	94 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4296.0	1695.0	1685.0	7.0	45.0
+1569	Honda	Amaze 1.2 VX AT i-VTEC	434999	2014	50000	Petrol	Automatic	Mumbai	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1570	Volkswagen	Polo Comfortline 1.2L (P)	425000	2016	52600	Petrol	Manual	Varanasi	Silver	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3971.0	1682.0	1469.0	5.0	45.0
+1571	Honda	Amaze 1.2 E MT Petrol [2018-2020]	675000	2020	25000	Petrol	Manual	Delhi	White	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3995.0	1695.0	1501.0	5.0	35.0
+1572	Hyundai	Xcent S 1.2	399000	2014	74000	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1660.0	1520.0	5.0	43.0
+1574	Maruti Suzuki	Ritz VXI BS-IV	265000	2011	28000	Petrol	Manual	Mumbai	Silver	First	Individual									
+1575	Volkswagen	Vento Highline Plus 1.6 (P)	940000	2021	35000	Petrol	Manual	Chennai	Maroon	First	Corporate	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4390.0	1699.0	1467.0	5.0	55.0
+1576	Mercedes-Benz	GLS 450 4MATIC	13100000	2021	17000	Petrol	Automatic	Delhi	White	First	Individual	2999 cc	362 bhp @ 5500 rpm	500 Nm @ 1600 rpm	AWD	5207.0	2157.0	1823.0	7.0	90.0
+1578	Honda	City VX	1255000	2021	10000	Petrol	Manual	Mumbai	White	First	Corporate	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1580	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	390000	2014	46000	Petrol	Manual	Pune	Orange	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1582	Audi	Q2 Premium 40 TFSI quattro	3450000	2022	4600	Petrol	Automatic	Gurgaon	Blue	First	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1500 rpm	AWD	4318.0	1805.0	1548.0	5.0	55.0
+1585	Honda	City 1.5 S MT	275000	2009	80000	Petrol	Manual	Mohali	Grey	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1586	Toyota	Etios 1.2 G	434999	2015	32545	Petrol	Manual	Kolkata	Silver	First	Individual	1197 cc	79 bhp @ 5600 rpm	104 Nm @ 3100 rpm	FWD	3895.0	1735.0	1555.0	5.0	45.0
+1590	Hyundai	i10 Era 1.1 iRDE2 [2010-2017]	225000	2012	26000	Petrol	Manual	Dehradun	White	First	Individual	1086 cc	68 bhp @ 5500 rpm	99.08 Nm @ 4500 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1593	Hyundai	Santro GL Plus	254999	2012	17000	Petrol	Manual	Mohali	Silver	First	Individual	1086 cc	62 bhp @ 5500 rpm	96 Nm @ 3000 rpm	FWD	3565.0	1525.0	1590.0	5.0	35.0
+1597	Volvo	XC40 T4 R-Design	4400000	2020	16519	Petrol	Automatic	Mumbai	White	First	Corporate	1969 cc	187 bhp @ 5000 rpm	300 Nm @ 1300 rpm	FWD	4425.0	1863.0	1652.0	5.0	54.0
+1598	Maruti Suzuki	Alto VXi	200000	2011	51000	Petrol	Manual	Mumbai	Orange	Second	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1602	Maruti Suzuki	Ertiga VXI AT	675000	2016	49148	Petrol	Automatic	Mumbai	Blue	Second	Individual	1373 cc	94 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4265.0	1695.0	1685.0	7.0	45.0
+1606	Honda	City VX CVT	690000	2015	59000	Petrol	Automatic	Faridabad	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1608	Honda	Accord 2.4 AT	475000	2011	72000	Petrol	Automatic	Delhi	Gold	First	Individual	2354 cc	178 bhp @ 6500 rpm	222 Nm @ 4300 rpm	FWD	4950.0	1845.0	1475.0	5.0	70.0
+1610	Maruti Suzuki	Ertiga ZXi AT	990000	2019	21894	Petrol	Automatic	Delhi	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4395.0	1735.0	1690.0	7.0	45.0
+1613	Maruti Suzuki	Ciaz Delta Hybrid 1.5 AT [2018-2020]	850000	2019	32000	Petrol	Automatic	Pune	Grey	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1621	Hyundai	Eon Magna +	325000	2017	56000	Petrol	Manual	Dehradun	Silver	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1623	Maruti Suzuki	Ertiga ZXi Plus	1225000	2021	23000	Petrol	Manual	Bangalore	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4395.0	1735.0	1690.0	7.0	45.0
+1625	Hyundai	Elite i20 Asta 1.2	550000	2015	33000	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1630	Renault	Kwid RXT [2015-2019]	434999	2019	32000	Petrol	Manual	Mysore	Grey	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1632	Maruti Suzuki	Ertiga VXI	775000	2017	71000	Petrol	Manual	Delhi	Silver	First	Individual	1373 cc	94 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4296.0	1695.0	1685.0	7.0	45.0
+1633	Hyundai	i10 Sportz 1.2 AT	185000	2008	61000	Petrol	Automatic	Pune	Black	Third	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1634	Maruti Suzuki	Ritz VXI BS-IV	204999	2011	42152	Petrol	Manual	Siliguri	Brown	First	Corporate									
+1635	Hyundai	Grand i10 Sportz (O) 1.2 Kappa VTVT [2017-2018]	560000	2017	29000	Petrol	Manual	Bangalore	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1639	Maruti Suzuki	DZire VXi	650000	2020	42000	Petrol	Manual	Lucknow	White	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3995.0	1735.0	1515.0	5.0	37.0
+1640	Datsun	Go T (O)	345000	2019	60969	Petrol	Manual	Ranchi	Silver	First	Individual	1198 cc	67 bhp @ 5000 rpm	104 Nm @ 4000 rpm	FWD	3785.0	1635.0	1485.0	5.0	35.0
+1643	Maruti Suzuki	Ciaz S 1.4 MT	585000	2018	31000	Petrol	Manual	Kolkata	Brown	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1644	Toyota	Glanza G	690000	2020	55000	Petrol	Manual	Lucknow	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3995.0	1745.0	1510.0	5.0	37.0
+1649	Volkswagen	Vento Comfortline 1.6 (P)	690000	2018	38000	Petrol	Manual	Dehradun	Gold	First	Individual	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4390.0	1699.0	1467.0	5.0	55.0
+1650	Hyundai	Elite i20 Asta 1.0 Turbo IMT Dual Tone	1130000	2020	12905	Petrol	Manual	Bangalore	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1775.0	1505.0	5.0	37.0
+1652	Mercedes-Benz	A-Class Sedan 200	4100000	2021	9000	Petrol	Automatic	Chennai	Blue	First	Individual	1332 cc	161 bhp @ 5500 rpm	250 Nm @ 1620 rpm	FWD	4549.0	1796.0	1446.0	5.0	43.0
+1654	Hyundai	Elite i20 Magna Executive 1.2	595000	2019	48000	Petrol	Manual	Delhi	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	40.0
+1655	Hyundai	i10 Magna 1.2 Kappa2	290000	2011	91000	Petrol	Manual	Ahmedabad	White	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1656	Hyundai	i20 Sportz 1.2 BS-IV	350000	2011	84873	Petrol	Manual	Indore	Red	Second	Individual									
+1657	Jeep	Wrangler Rubicon	6100000	2022	15000	Petrol	Automatic	Mumbai	Red	First	Individual	1995 cc	268 bhp @ 5150 rpm	400 Nm @ 3000 rpm	AWD	4882.0	1894.0	1848.0	5.0	81.0
+1661	Honda	Amaze 1.2 S AT i-VTEC	390000	2014	67000	Petrol	Automatic	Delhi	Red	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1664	Maruti Suzuki	Alto VXi	260000	2012	54000	Petrol	Manual	Bangalore	Bronze	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1665	Honda	Amaze 1.2 E i-VTEC	650000	2019	42000	Petrol	Manual	Delhi	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1666	Volkswagen	Ameo Highline1.2L (P) [2016-2018]	625000	2017	55000	Petrol	Manual	Pune	Bronze	First	Individual	1198 cc	74 bhp @ 5400 rpm	110 Nm @ 3750 rpm	FWD	3995.0	1682.0	1483.0	5.0	45.0
+1669	Hyundai	i10 Sportz 1.2 AT Kappa2	375000	2013	34000	Petrol	Automatic	Mumbai	Red	First	Individual	1197 cc	79 bhp @ 6000 rpm	112.7619 Nm @ 4000 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1670	Maruti Suzuki	Celerio ZXi AMT	639000	2020	44300	Petrol	Automatic	Dharwad	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+1673	Honda	City 1.5 S AT	250000	2009	110000	Petrol	Automatic	Delhi	Grey	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1674	Kia	Seltos HTX 1.5 [2020-2021]	1399000	2021	11000	Petrol	Manual	Pune	Silver	First	Individual	1497 cc	113 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+1676	Hyundai	i10 Magna	175000	2009	65000	Petrol	Manual	Jamshedpur	Blue	Second	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1679	Maruti Suzuki	Wagon R LXi	285000	2013	25200	Petrol	Manual	Ahmedabad	White	First	Individual	998 cc	68@6200	90@3500		3539.0	1475.0	1700.0	5.0	35.0
+1682	Maruti Suzuki	Ritz VXI BS-IV	190000	2011	58888	Petrol	Manual	Delhi	Maroon	Second	Individual									
+1684	Maruti Suzuki	Swift ZXi	575000	2015	50599	Petrol	Manual	Chennai	White	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1686	Honda	Jazz VX CVT Petrol	785000	2018	23000	Petrol	Automatic	Chennai	Red	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1691	Ford	Ecosport Ambiente 1.5L Ti-VCT	475000	2016	69001	Petrol	Manual	Delhi	White	First	Individual	1499 cc	110 bhp @ 6300 rpm	140 Nm @ 4400 rpm	FWD	3999.0	1765.0	1708.0	5.0	52.0
+1694	Toyota	Etios V	300000	2011	49200	Petrol	Manual	Mumbai	Silver	First	Individual	1496 cc	80 bhp @ 5600 rpm	132 Nm @ 3000 rpm	FWD	4265.0	1695.0	1510.0	5.0	45.0
+1695	Mahindra	Thar LX 4-STR Hard Top Petrol MT	1500000	2021	8000	Petrol	Manual	Agra	Red	Second	Individual	1997 cc	150 bhp @ 5000 rpm	300 Nm @ 1250 rpm	AWD	3985.0	1820.0	1844.0	4.0	57.0
+1697	Maruti Suzuki	Alto VXi [2014-2019]	370000	2015	64000	Petrol	Manual	Mohali	Grey	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3545.0	1490.0	1475.0	5.0	35.0
+1698	Hyundai	i10 Era 1.1 iRDE2 [2010-2017]	250000	2012	48568	Petrol	Manual	Mumbai	White	First	Individual	1086 cc	68 bhp @ 5500 rpm	99.08 Nm @ 4500 rpm	FWD	3585.0	1595.0	1550.0	5.0	35.0
+1701	Hyundai	i10 Era	130000	2009	59000	Petrol	Manual	Kanpur	Silver	Second	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1702	Maruti Suzuki	Swift VXi	299000	2013	47000	Petrol	Manual	Kolkata	Silver	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1703	Hyundai	i20 Magna 1.2	300000	2014	40000	Petrol	Manual	Kolkata	Silver	First	Individual	1197 cc	83 bhp @ 6000 rpm	113.796 Nm @ 4000 rpm	FWD	3995.0	1710.0	1505.0	5.0	45.0
+1704	Skoda	Superb Sportline AT	3325000	2021	13092	Petrol	Automatic	Mumbai	White	First	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1450 rpm	FWD	4869.0	1864.0	1469.0	5.0	66.0
+1707	Hyundai	i20 Active 1.2 SX	595000	2015	45000	Petrol	Manual	Thane	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1760.0	1555.0	5.0	45.0
+1708	Maruti Suzuki	Celerio X Zxi AMT [2017-2019]	484999	2018	44000	Petrol	Automatic	Delhi	Grey	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3715.0	1635.0	1565.0	5.0	35.0
+1710	Maruti Suzuki	Wagon R VXi 1.2	579000	2019	50860	Petrol	Manual	Bangalore	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3655.0	1620.0	1675.0	5.0	32.0
+1714	Maruti Suzuki	Baleno Delta 1.2	535000	2017	34908	Petrol	Manual	Mumbai	Grey	First	Corporate	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1716	Maruti Suzuki	Celerio VXi AMT	345000	2014	19000	Petrol	Automatic	Mumbai	Silver	Second	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1717	Skoda	Octavia RS	3400000	2019	30600	Petrol	Automatic	Hyderabad	Red	First	Corporate	1984 cc	227 bhp @ 5500 rpm	350 Nm @ 1250 rpm	FWD	4689.0	1814.0	1496.0	5.0	50.0
+1719	Honda	Jazz V Petrol	525000	2016	18800	Petrol	Manual	Mumbai	Grey	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1720	Hyundai	Elite i20 Asta 1.2 [2016-2017]	650000	2016	100000	Petrol	Manual	Hyderabad	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1721	Hyundai	Creta 1.6 SX Plus AT Petrol	1074000	2017	50050	Petrol	Automatic	Delhi	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1724	Ford	Mustang GT Fastback 5.0L v8	7990000	2018	23000	Petrol	Automatic	Chennai	Yellow	First	Individual	4951 cc	396 bhp @ 6500 rpm	515 Nm @ 4250 rpm	RWD	4784.0	2080.0	1391.0	4.0	60.9
+1726	Maruti Suzuki	Celerio ZXi AMT [2019-2020]	630000	2019	20734	Petrol	Automatic	Udupi	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+1732	Maruti Suzuki	Alto LXi BS-III	200000	2008	41000	Petrol	Manual	Mysore	Blue	First	Individual	796 cc	47@6200	62@3000		3495.0	1475.0	1460.0	5.0	35.0
+1733	Honda	City 1.5 S MT	250000	2009	72256	Petrol	Manual	Navi Mumbai	Black	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1736	Hyundai	Venue S 1.0 AT Petrol [2019-2020]	750000	2019	43600	Petrol	Automatic	Allahabad	White	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+1737	Maruti Suzuki	Wagon R VXi (O)	450000	2018	43000	Petrol	Manual	Allahabad	White	First	Individual	998 cc	67.7 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3636.0	1475.0	1670.0	5.0	35.0
+1738	Maruti Suzuki	Vitara Brezza VXi	849000	2021	17283	Petrol	Manual	Mumbai	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	3995.0	1790.0	1640.0	5.0	48.0
+1739	Maruti Suzuki	Swift DZire VXI	430000	2014	59000	Petrol	Manual	Guwahati	Blue	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1741	Mercedes-Benz	CLA 200 Petrol Sport	1975000	2015	19000	Petrol	Automatic	Pune	White	First	Individual	1991 cc	181 bhp @ 5500 rpm	300 Nm @ 1200 rpm	FWD	4630.0	1777.0	1432.0	5.0	
+1742	BMW	X7 xDrive40i M Sport	12500000	2021	9500	Petrol	Automatic	Chandigarh	White	First	Individual	2998 cc	335 bhp @ 5500 rpm	450 Nm @ 1500 rpm	AWD	5151.0	2000.0	1805.0	6.0	83.0
+1743	Hyundai	Creta SX 1.6 AT Petrol	1260000	2018	36000	Petrol	Automatic	Mumbai	Grey	First	Individual	1591 cc	122 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4270.0	1780.0	1665.0	5.0	55.0
+1744	Renault	Kwid RXT [2015-2019]	250000	2017	32000	Petrol	Manual	Kolkata	White	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1745	Hyundai	Verna SX (O) AT Anniversary Edition 1.6 VTVT	975000	2018	53300	Petrol	Automatic	Thane	Grey	First	Individual	1591 cc	121 bhp @ 6400 rpm	151 Nm @ 4850 rpm	FWD	4440.0	1729.0	1475.0	5.0	45.0
+1746	Audi	A4 Premium Plus 40 TFSI	4151000	2022	1	Petrol	Automatic	Delhi	Black	UnRegistered Car	Individual	1984 cc	188 bhp @ 4200 rpm	320 Nm @ 1450 rpm	FWD	4762.0	1847.0	1433.0	5.0	54.0
+1749	BMW	X3 xDrive30i M Sport	6680000	2022	18223	Petrol	Automatic	Ahmedabad	Blue	First	Individual	1998 cc	248 bhp @ 5200 rpm	350 Nm @ 1450 rpm	AWD	4708.0	1891.0	1676.0	5.0	60.0
+1751	Hyundai	Elantra 2.0 SX (O) AT	1465000	2019	22000	Petrol	Automatic	Mumbai	Silver	Second	Individual	1999 cc	150 bhp @ 6200 rpm	192 Nm @ 4000 rpm	FWD	4570.0	1800.0	1465.0	5.0	50.0
+1752	Hyundai	Verna Fluidic 1.6 VTVT SX	475000	2014	62000	Petrol	Manual	Delhi	Silver	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1753	Renault	Kiger RXZ AMT	1000000	2022	4000	Petrol	Automatic	Hyderabad	White	Second	Individual	999 cc	71 bhp @ 6250 rpm	96 Nm @ 3500 rpm	FWD	3991.0	1750.0	1605.0	5.0	40.0
+1755	Maruti Suzuki	Ciaz ZXI+	570000	2015	60798	Petrol	Manual	Mumbai	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1756	Hyundai	Verna 1.6 VTVT SX AT	770000	2016	20000	Petrol	Automatic	Pune	White	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4375.0	1700.0	1475.0	5.0	43.0
+1757	Honda	City V CVT Petrol [2017-2019]	1040000	2019	18000	Petrol	Automatic	Delhi	Brown	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1759	Maruti Suzuki	Swift DZire VXI	450000	2014	52000	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1760	Maruti Suzuki	Swift ZXi	800000	2022	10000	Petrol	Manual	Jalandhar	White	First	Individual	1197 cc	89 bhp @ 6000 rpm	113 Nm @ 4400 rpm	FWD	3845.0	1735.0	1530.0	5.0	37.0
+1764	Hyundai	Grand i10 Sportz 1.2 Kappa VTVT [2013-2016]	450000	2016	47000	Petrol	Manual	Dehradun	Grey	Second	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1766	MINI	Cooper JCW Hatchback	5200000	2022	0	Petrol	Automatic	Ahmedabad	Yellow	UnRegistered Car	Individual	1998 cc	228 bhp @ 5200 rpm	320 Nm @ 1450 rpm	FWD	3850.0	1727.0	1414.0	4.0	44.0
+1768	Mercedes-Benz	S-Class S 500	1875000	2011	72000	Petrol	Automatic	Mumbai	Silver	First	Individual	4663 cc	453 bhp @ 5250 rpm	700 Nm @ 1800 rpm	RWD	5246.0	1899.0	1494.0	4.0	80.0
+1769	Honda	Jazz S AT [2015-2016]	520000	2015	42000	Petrol	Automatic	Delhi	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1773	Maruti Suzuki	Swift VXi	325000	2012	30000	Petrol	Manual	Patna	Blue	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1774	MG	Hector Sharp 1.5 DCT Petrol [2019-2020]	1889999	2021	17000	Petrol	Automatic	Delhi	White	First	Individual	1451 cc	141 bhp @ 5000 rpm	250 Nm @ 1600 rpm		4655.0	1835.0	1760.0	5.0	60.0
+1782	Renault	Kwid CLIMBER 1.0 [2017-2019]	375000	2017	45000	Petrol	Manual	Bhubaneswar	Grey	UnRegistered Car	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1784	Mahindra	Thar LX 4-STR Hard Top Petrol AT	1710000	2021	4400	Petrol	Automatic	Mumbai	Black	First	Individual	1997 cc	150 bhp @ 5000 rpm	320 Nm @ 1500 rpm	AWD	3985.0	1820.0	1844.0	4.0	57.0
+1785	Maruti Suzuki	Celerio VXi AMT	375000	2014	35000	Petrol	Automatic	Delhi	Red	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1786	Maruti Suzuki	Alto 800 Vxi	285000	2016	22346	Petrol	Manual	Patna	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1787	Mahindra	Thar AX 6-STR Soft Top Petrol MT	1850000	2021	23280	Petrol	Manual	Aurangabad	Red	Second	Individual	1997 cc	150 bhp @ 5000 rpm	300 Nm @ 1250 rpm	AWD	3985.0	1820.0	1920.0	6.0	57.0
+1791	Hyundai	Grand i10 Magna 1.2 Kappa VTVT [2013-2016]	399000	2018	38000	Petrol	Manual	Kolkata	Silver	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1793	Hyundai	Verna Fluidic 1.6 VTVT SX Opt AT	1325000	2021	9900	Petrol	Automatic	Mumbai	Blue	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1797	Maruti Suzuki	Celerio VXi (O) [2019-2020]	509999	2019	48000	Petrol	Manual	Hyderabad	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+1803	Porsche	Cayenne Base	14900000	2021	7534	Petrol	Automatic	Mumbai	Blue	UnRegistered Car	Individual	2995 cc	335 bhp @ 5300 rpm	450 Nm @ 1340 rpm	AWD	4918.0	1983.0	1696.0	5.0	75.0
+1804	Toyota	Etios Liva G	350000	2013	34000	Petrol	Manual	Pune	Black	First	Individual	1197 cc	80 bhp @ 5600 rpm	104 Nm @ 3100 rpm	FWD	3775.0	1695.0	1510.0	5.0	45.0
+1806	Honda	Jazz V AT Petrol	595000	2017	99000	Petrol	Automatic	Noida	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1808	Maruti Suzuki	SX4 VXi	325000	2012	118000	Petrol	Manual	Pune	White	First	Individual	1586 cc	102@5500	145@4200		4490.0	1735.0	1560.0	5.0	50.0
+1810	Maruti Suzuki	Ciaz Delta Hybrid 1.5 [2018-2020]	825000	2019	44000	Petrol	Manual	Delhi	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1814	Maruti Suzuki	Alto VXI	385000	2019	2200	Petrol	Manual	Mumbai	White	First	Individual									
+1816	Mercedes-Benz	A-Class Sedan 200	4150000	2021	6000	Petrol	Automatic	Delhi	White	First	Individual	1332 cc	161 bhp @ 5500 rpm	250 Nm @ 1620 rpm	FWD	4549.0	1796.0	1446.0	5.0	43.0
+1818	Toyota	Corolla Altis 1.8 G	340000	2011	109000	Petrol	Manual	Mumbai	White	Second	Individual	1794 cc	132@6000	170@4200	FWD	4540.0	1760.0	1480.0	5.0	55.0
+1819	Maruti Suzuki	Baleno Delta 1.2	650000	2018	32000	Petrol	Manual	Delhi	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1820	Maruti Suzuki	Swift Lxi (O) [2014-2017]	570000	2019	13000	Petrol	Manual	Delhi	Silver	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1824	Maruti Suzuki	Baleno Zeta 1.2 AT	660000	2017	40000	Petrol	Automatic	Pune	Blue	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1825	Honda	WR-V VX MT Petrol	575000	2017	53580	Petrol	Manual	Kolkata	Gold	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3999.0	1734.0	1601.0	5.0	40.0
+1827	Honda	City V Petrol	950000	2019	22000	Petrol	Manual	Noida	White	First	Individual	1497 cc	118 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1828	Renault	Kwid RXT [2015-2019]	419000	2017	23700	Petrol	Manual	Mysore	Bronze	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1829	Maruti Suzuki	Swift DZire VXI AT	750000	2017	48069	Petrol	Automatic	Hyderabad	White	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1835	Hyundai	Grand i10 Asta 1.2 Kappa VTVT [2013-2016]	475000	2016	16630	Petrol	Manual	Mumbai	Maroon	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1837	Honda	City VX Petrol [2017-2019]	850000	2017	47255	Petrol	Manual	Ahmedabad	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1840	Audi	A6 Technology 45 TFSI	5800000	2021	7935	Petrol	Automatic	Surat	Brown	UnRegistered Car	Individual	1984 cc	241 bhp @ 5000 rpm	370 Nm @ 1600 rpm	FWD	4939.0	1886.0	1457.0	5.0	73.0
+1841	Hyundai	Creta SX 1.5 Petrol CVT [2020-2022]	1925000	2022	9355	Petrol	Automatic	Mumbai	White	First	Individual	1497 cc	113 bhp @ 6300 rpm	144 Nm @ 4500 rpm	FWD	4300.0	1790.0	1635.0	5.0	50.0
+1842	Renault	Kwid RXL [2015-2019]	305000	2018	34800	Petrol	Manual	Jamshedpur	Red	First	Individual	799 cc	53 bhp @ 5678 rpm	72 Nm @ 4386 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1845	Honda	Jazz V Petrol	655000	2017	24003	Petrol	Manual	Bangalore	Brown	First	Individual	1199 cc	89 bhp @ 6000 rpm	110 Nm @ 4800 rpm	FWD	3955.0	1694.0	1544.0	5.0	40.0
+1851	Honda	BR-V V CVT Petrol	745000	2018	54000	Petrol	Automatic	Kolkata	Silver	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4453.0	1735.0	1666.0	7.0	42.0
+1855	Maruti Suzuki	Celerio VXi AMT	395000	2014	47884	Petrol	Automatic	Pune	Red	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1856	Skoda	Octavia 1.8 TSI Style Plus AT [2017]	1390000	2017	56000	Petrol	Automatic	Navi Mumbai	White	First	Individual	1798 cc	177 bhp @ 5100 rpm	250 Nm @ 1250 rpm	FWD	4670.0	1814.0	1476.0	5.0	50.0
+1857	Honda	City 1.5 V MT	365000	2010	58424	Petrol	Manual	Hyderabad	Gold	First	Individual	1497 cc	118@6600	146@4600	FWD	4420.0	1695.0	1480.0	5.0	42.0
+1862	Skoda	Rapid 1.6 MPI Active	880000	2018	47000	Petrol	Manual	Coimbatore	White	First	Individual	1598 cc	104 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4386.0	1699.0	1466.0	5.0	55.0
+1863	Hyundai	Verna Fluidic 1.6 VTVT SX Opt AT	1180000	2019	38000	Petrol	Automatic	Bangalore	White	First	Individual	1591 cc	121 bhp @ 6300 rpm	158 Nm @ 4200 rpm	FWD	4370.0	1700.0	1475.0	5.0	43.0
+1864	Maruti Suzuki	Alto 800 Lxi	285000	2016	17000	Petrol	Manual	Lucknow	White	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1872	Hyundai	Grand i10 NIOS Sportz AMT 1.2 Kappa VTVT	825000	2021	6600	Petrol	Automatic	Hyderabad	Blue	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+1874	Maruti Suzuki	Alto 800 VXi	409999	2021	13424	Petrol	Manual	Ranga Reddy	Silver	First	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3445.0	1515.0	1475.0	5.0	35.0
+1876	Maruti Suzuki	Alto LXi	280000	2011	69276	Petrol	Manual	Hyderabad	Gold	First	Individual	998 cc	67 bhp @ 6200 rpm	90 Nm @ 3500 rpm	FWD	3620.0	1475.0	1460.0	5.0	35.0
+1879	Maruti Suzuki	Wagon R LXi	220000	2012	54000	Petrol	Manual	Agra	Brown	First	Individual	998 cc	68@6200	90@3500		3539.0	1475.0	1700.0	5.0	35.0
+1885	Hyundai	Eon Sportz	250000	2013	82461	Petrol	Manual	Hyderabad	Red	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1889	Tata	Tiago NRG Petrol	525000	2019	32000	Petrol	Manual	Noida	Bronze	First	Individual	1199 cc	84 bhp @ 6000 rpm	114 Nm @ 3500 rpm	FWD	3793.0	1665.0	1587.0	5.0	35.0
+1890	Mercedes-Benz	S-Class S 450	20000000	2021	6600	Petrol	Automatic	Delhi	White	First	Individual	2996 cc	362 bhp @ 5250 rpm	500 Nm @ 1800 rpm	RWD	5246.0	1899.0	1494.0	5.0	80.0
+1891	Mahindra	Thar LX 4-STR Hard Top Petrol MT	1520000	2021	14000	Petrol	Manual	Delhi	Brown	First	Individual	1997 cc	150 bhp @ 5000 rpm	300 Nm @ 1250 rpm	AWD	3985.0	1820.0	1844.0	4.0	57.0
+1892	Hyundai	i10 Magna	170000	2009	135797	Petrol	Manual	Lucknow	Silver	Second	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1894	Maruti Suzuki	Celerio ZXi AMT [2017-2019]	575000	2018	27239	Petrol	Automatic	Bangalore	Orange	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+1895	Chevrolet	Spark LS 1.0 BS-III	190000	2013	66000	Petrol	Manual	Lucknow	White	First	Individual	995 cc	62 bhp @ 5400 rpm	90 Nm @ 4200 rpm	FWD	3495.0	1495.0	1518.0	5.0	38.0
+1896	Hyundai	Grand i10 NIOS Sportz 1.2 Kappa VTVT	755000	2022	2272	Petrol	Manual	Hyderabad	White	First	Individual	1197 cc	82 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3805.0	1680.0	1520.0	5.0	37.0
+1897	Honda	CR-V 2.0L 2WD AT	1130000	2015	50000	Petrol	Automatic	Mumbai	Brown	First	Individual	1997 cc	154 bhp @ 6500 rpm	190 Nm @ 4300 rpm	FWD	4545.0	1820.0	1685.0	5.0	58.0
+1898	Maruti Suzuki	Alto VXI	316000	2019	17491	Petrol	Manual	Kolkata	Others	First	Individual									
+1899	Maruti Suzuki	Swift DZire LXI	610000	2017	38674	Petrol	Manual	Navi Mumbai	Red	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+1902	Renault	Kwid 1.0 RXL [2017-2019]	365000	2019	32000	Petrol	Manual	Mumbai	Brown	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1903	Hyundai	i20 Magna 1.2	250000	2012	72000	Petrol	Manual	Mumbai	White	Third	Individual									
+1905	Mercedes-Benz	B-class B180 Sports	1150000	2013	52000	Petrol	Automatic	Delhi	Silver	Second	Individual	1595 cc	120 bhp @ 5000 rpm	200 Nm @ 1250 rpm	FWD	4359.0	2010.0	1557.0	5.0	50.0
+1908	Honda	City VX CVT	775000	2016	42000	Petrol	Automatic	Mumbai	Brown	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+1909	Hyundai	Creta SX Plus 1.6  Petrol	860000	2016	57983	Petrol	Manual	Mumbai	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+1910	Audi	A3 35 TFSI Premium Plus	2089999	2018	15600	Petrol	Automatic	Lucknow	White	First	Corporate	1395 cc	148 bhp @ 5000 rpm	250 Nm @ 1500 rpm	FWD	4456.0	1796.0	1416.0	5.0	50.0
+1916	Hyundai	Santro Sportz [2018-2020]	515000	2022	3395	Petrol	Manual	Ludhiana	Others	First	Individual	1086 cc	68 bhp @ 5500 rpm	99 Nm @ 4500 rpm	FWD	3610.0	1645.0	1560.0	5.0	35.0
+1921	Toyota	Corolla Altis GL Petrol	1075000	2016	70000	Petrol	Manual	Delhi	White	First	Individual	1798 cc	138 bhp @ 6400 rpm	173 Nm @ 4000 rpm	FWD	4620.0	1775.0	1475.0	5.0	55.0
+1922	Tata	Altroz XT Petrol	575000	2020	40000	Petrol	Manual	Kolkata	White	First	Individual	1199 cc	85 bhp @ 6000 rpm	113 Nm @ 3300 rpm	FWD	3990.0	1755.0	1523.0	5.0	37.0
+1924	Maruti Suzuki	Ciaz Delta Hybrid 1.5 [2018-2020]	750000	2019	6200	Petrol	Manual	Mumbai	Blue	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1926	Hyundai	i10 Sportz 1.2	190000	2010	60000	Petrol	Manual	Roorkee	White	Third	Individual	1197 cc	80@5200	111@4000	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1928	Porsche	Cayenne 3.2 V6 Petrol	3600000	2014	43000	Petrol	Automatic	Mumbai	White	Second	Individual									
+1931	Hyundai	Eon Era +	225000	2012	56000	Petrol	Manual	Meerut	Grey	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+1935	Tata	Nexon XM	750000	2019	33000	Petrol	Manual	Delhi	Silver	First	Individual	1198 cc	108 bhp @ 5000 rpm	170 Nm @ 1750 rpm	FWD	3994.0	1811.0	1607.0	5.0	44.0
+1936	Honda	City CVT	185000	2008	70000	Petrol	Automatic	Lucknow	White	Second	Individual	1497 cc	78@5500	125@2700		4390.0	1690.0	1495.0	5.0	42.0
+1937	Maruti Suzuki	Celerio ZXi AMT [2019-2020]	450000	2014	48000	Petrol	Automatic	Mumbai	Silver	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3695.0	1600.0	1560.0	5.0	35.0
+1946	Honda	Amaze 1.2 S i-VTEC	425000	2014	58600	Petrol	Manual	Pune	Red	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3990.0	1680.0	1505.0	5.0	35.0
+1947	Hyundai	Venue SX (O) 1.0 Turbo iMT	1050000	2021	7500	Petrol	Manual	Hyderabad	Blue	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1770.0	1605.0	5.0	45.0
+1949	Hyundai	i10 Magna	175000	2009	23000	Petrol	Manual	Mumbai	Red	First	Individual	1086 cc	67@5500	99@2800	FWD	3565.0	1595.0	1550.0	5.0	35.0
+1950	Maruti Suzuki	XL6 Zeta MT Petrol	994999	2019	27900	Petrol	Manual	Mumbai	Brown	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	4445.0	1775.0	1700.0	6.0	45.0
+1953	Renault	Kwid 1.0 RXT [2016-2019]	265000	2016	122000	Petrol	Manual	Coimbatore	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1954	Maruti Suzuki	Baleno Sigma 1.2	475000	2015	48000	Petrol	Manual	Navi Mumbai	Grey	First	Individual	1197 cc	83 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3995.0	1745.0	1500.0	5.0	37.0
+1955	Hyundai	Elite i20 Sportz 1.2 (O)	660000	2018	9000	Petrol	Manual	Mumbai	Grey	First	Individual	1197 cc	82 bhp @ 6000 rpm	115 Nm @ 4000 rpm	FWD	3985.0	1734.0	1505.0	5.0	45.0
+1956	Renault	Kwid 1.0 RXT AMT Opt	490000	2019	32000	Petrol	Automatic	Coimbatore	Bronze	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1957	Toyota	Innova 2.7 GX AT 7 STR [2016-2020]	1950000	2018	54000	Petrol	Automatic	Mumbai	Silver	First	Individual	2694 cc	164 bhp @ 5200 rpm	245 Nm @ 4000 rpm	RWD	4735.0	1830.0	1795.0	7.0	65.0
+1958	Nissan	Sunny XL	315000	2012	57000	Petrol	Manual	Amritsar	White	First	Individual	1498 cc	98 bhp @ 6000 rpm	134 Nm @ 4000 rpm	FWD	4425.0	1695.0	1505.0	5.0	41.0
+1960	Honda	Brio S MT	341000	2016	49000	Petrol	Manual	Mumbai	White	First	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+1962	Maruti Suzuki	Swift VXi	409999	2014	20000	Petrol	Manual	Mumbai	Grey	Second	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1963	Maruti Suzuki	Wagon R LXi	290000	2012	12300	Petrol	Manual	Mumbai	Blue	First	Individual	998 cc	68@6200	90@3500		3539.0	1475.0	1700.0	5.0	35.0
+1965	Maruti Suzuki	Swift VXi	365000	2013	68000	Petrol	Manual	Mumbai	Blue	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3850.0	1695.0	1530.0	5.0	42.0
+1968	Land Rover	Discovery Sport HSE Petrol 7-Seater	5100000	2019	24444	Petrol	Automatic	Bangalore	Blue	Second	Individual	1999 cc	236 bhp @ 5500 rpm	340 Nm @ 1750 rpm	AWD	4600.0	2069.0	1724.0	7.0	65.0
+1973	Mercedes-Benz	C-Class C200 Progressive	4975000	2021	2610	Petrol	Automatic	Bangalore	White	First	Individual	1991 cc	201 bhp @ 5800 rpm	300 Nm @ 1200 rpm	RWD	4686.0	1810.0	1442.0	5.0	66.0
+1975	Maruti Suzuki	Ignis Zeta 1.2 AMT	521000	2017	40879	Petrol	Automatic	Mumbai	Red	First	Individual	1197 cc	82 bhp @ 6000 rpm	113 Nm @ 4200 rpm	FWD	3700.0	1690.0	1595.0	5.0	32.0
+1980	Maruti Suzuki	Wagon R VXi 1.0 [2019-2019]	420000	2018	50000	Petrol	Manual	Bhubaneswar	White	UnRegistered Car	Individual					3655.0	1620.0	1675.0	5.0	32.0
+1981	Renault	Kwid 1.0 RXT [2016-2019]	299000	2018	19000	Petrol	Manual	Kolkata	Red	First	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3679.0	1579.0	1478.0	5.0	28.0
+1984	Honda	Brio VX AT	335000	2013	64418	Petrol	Automatic	Mumbai	Silver	Second	Individual	1198 cc	87 bhp @ 6000 rpm	109 Nm @ 4500 rpm	FWD	3610.0	1680.0	1500.0	5.0	35.0
+1985	Hyundai	Grand i10 Sportz 1.2 Kappa VTVT [2016-2017]	480000	2019	10265	Petrol	Manual	Hyderabad	Grey	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+1992	Toyota	Innova 2.0 G1 BS-IV	555000	2010	261236	Petrol	Manual	Mumbai	Silver	First	Individual	1998 cc	136@5600	182@4000		4555.0	1770.0	1755.0	8.0	55.0
+1994	Maruti Suzuki	Alto 800 Std	180000	2014	48000	Petrol	Manual	Ranchi	Silver	Third	Individual	796 cc	47 bhp @ 6000 rpm	69 Nm @ 3500 rpm	FWD	3395.0	1490.0	1475.0	5.0	35.0
+1997	Honda	City 1.5 E MT	375000	2013	86000	Petrol	Manual	Mumbai	Purple	Second	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+1998	Maruti Suzuki	Ciaz Alpha 1.4 AT	725000	2017	55000	Petrol	Automatic	Noida	White	First	Individual	1373 cc	91 bhp @ 6000 rpm	130 Nm @ 4000 rpm	FWD	4490.0	1730.0	1485.0	5.0	43.0
+1999	Hyundai	Grand i10 Sportz 1.2 Kappa VTVT [2016-2017]	400000	2017	35000	Petrol	Manual	Kolkata	Blue	First	Individual	1197 cc	81 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3765.0	1660.0	1520.0	5.0	43.0
+2000	Jeep	Compass Limited (O) 1.4 Petrol DCT	2275000	2022	2000	Petrol	Automatic	Kolkata	Green	First	Individual	1368 cc	161 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4405.0	1818.0	1640.0	5.0	60.0
+2002	Honda	City 1.5 S MT	499000	2012	96506	Petrol	Manual	Bangalore	Silver	Second	Individual	1497 cc	116 bhp @ 6600 rpm	146 Nm @ 4800 rpm	FWD	4440.0	1695.0	1485.0	5.0	42.0
+2003	Volkswagen	Vento Highline Petrol AT	399000	2014	88000	Petrol	Automatic	Faridabad	Silver	First	Individual	1598 cc	103 bhp @ 5250 rpm	153 Nm @ 3800 rpm	FWD	4384.0	1699.0	1466.0	5.0	55.0
+2005	Maruti Suzuki	Swift DZire VXI	450000	2015	52000	Petrol	Manual	Roorkee	White	First	Individual	1197 cc	85 bhp @ 6000 rpm	114 Nm @ 4000 rpm	FWD	3995.0	1695.0	1555.0	5.0	42.0
+2006	Maruti Suzuki	Celerio VXi AMT	409999	2015	54443	Petrol	Automatic	Mumbai	White	First	Individual	998 cc	67 bhp @ 6000 rpm	90 Nm @ 3500 rpm	FWD	3600.0	1600.0	1560.0	5.0	35.0
+2010	Audi	A4 30 TFSI Technology Pack	3000000	2017	42000	Petrol	Automatic	Pune	White	First	Individual	1395 cc	148 bhp @ 5000 rpm	250 Nm @ 1500 rpm	FWD	4726.0	1842.0	1427.0	5.0	54.0
+2011	Datsun	Redigo T(O) 1.0	250000	2018	25000	Petrol	Manual	Kolkata	Grey	Second	Individual	999 cc	67 bhp @ 5500 rpm	91 Nm @ 4250 rpm	FWD	3429.0	1560.0	1541.0	5.0	28.0
+2022	Kia	Seltos GTX Plus AT 1.4 [2019-2020]	1975000	2021	7000	Petrol	Automatic	Bangalore	Grey	First	Individual	1353 cc	138 bhp @ 6000 rpm	242 Nm @ 1500 rpm	FWD	4315.0	1800.0	1645.0	5.0	50.0
+2025	Honda	Accord 2.4 iVtec AT	195000	2008	57885	Petrol	Automatic	Delhi	Beige	First	Individual									
+2026	Toyota	Etios Liva G	315000	2011	38091	Petrol	Manual	Mumbai	Red	First	Individual	1197 cc	80 bhp @ 5600 rpm	104 Nm @ 3100 rpm	FWD	3775.0	1695.0	1510.0	5.0	45.0
+2027	Hyundai	Eon Sportz	275000	2013	34000	Petrol	Manual	Pune	Blue	First	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+2030	Kia	Sonet GTX Plus 1.0 iMT [2020-2021]	1325000	2021	20000	Petrol	Manual	Bangalore	Maroon	First	Individual	998 cc	118 bhp @ 6000 rpm	172 Nm @ 1500 rpm	FWD	3995.0	1790.0	1647.0	5.0	45.0
+2032	Land Rover	Range Rover Velar 2.0 S Petrol 250	8900000	2020	88000	Petrol	Automatic	Mumbai	White	First	Individual	1997 cc	247 bhp @ 5500 rpm	365 Nm @ 1500 rpm	AWD	4797.0	2032.0	1665.0	5.0	
+2033	Mercedes-Benz	E-Class E200	950000	2011	65000	Petrol	Automatic	Mumbai	Black	Second	Individual	1991 cc	184 bhp @ 5500 rpm	300 Nm @ 1200 rpm	RWD	4879.0	1854.0	1474.0	5.0	80.0
+2035	Maruti Suzuki	Wagon R LXi	265000	2011	41000	Petrol	Manual	Pune	Brown	Second	Individual	998 cc	68@6200	90@3500		3539.0	1475.0	1700.0	5.0	35.0
+2037	Honda	City V	730000	2016	51834	Petrol	Manual	Bangalore	Grey	Second	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+2038	Jeep	Compass Limited 1.4 Petrol AT [2017-2020]	1495000	2018	28000	Petrol	Automatic	Delhi	Silver	First	Individual	1368 cc	160 bhp @ 5500 rpm	250 Nm @ 2500 rpm	FWD	4395.0	1818.0	1640.0	5.0	60.0
+2039	Mercedes-Benz	B-class B180	1150000	2014	39000	Petrol	Automatic	Mumbai	White	Second	Individual	1595 cc	120 bhp @ 5000 rpm	200 Nm @ 1250 rpm	FWD	4359.0	2010.0	1557.0	5.0	50.0
+2040	Honda	City SV CVT	590000	2015	116592	Petrol	Automatic	Mumbai	Brown	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+2042	Chevrolet	Sail Sedan 1.2 LS	299000	2014	32000	Petrol	Manual	Dehradun	Silver	First	Individual	1199 cc	85 bhp @ 6000 rpm	113 Nm @ 5000 rpm	FWD	4249.0	1690.0	1503.0	5.0	42.0
+2044	Mahindra	XUV700 AX 7 Petrol AT Luxury Pack 7 STR	2765000	2022	75	Petrol	Automatic	Delhi	Blue	First	Individual	1997 cc	197 bhp @ 5000 rpm	380 Nm @ 1750 rpm	FWD	4695.0	1890.0	1755.0	7.0	60.0
+2047	Honda	City V	480000	2015	49000	Petrol	Manual	Kolkata	Grey	First	Individual	1497 cc	117 bhp @ 6600 rpm	145 Nm @ 4600 rpm	FWD	4440.0	1695.0	1495.0	5.0	40.0
+2049	Mercedes-Benz	GLS 400 4MATIC	5950000	2017	80000	Petrol	Automatic	Delhi	Black	First	Individual	2996 cc	329 bhp @ 5250 rpm	480 Nm @ 1600 rpm	AWD	5130.0	1934.0	1850.0	5.0	100.0
+2050	Hyundai	Creta SX Plus 1.6  Petrol	891000	2016	47000	Petrol	Manual	Delhi	White	First	Individual	1591 cc	122 bhp @ 6400 rpm	154 Nm @ 4850 rpm	FWD	4270.0	1780.0	1630.0	5.0	60.0
+2051	Maruti Suzuki	Vitara Brezza VXi	925000	2021	48000	Petrol	Manual	Bangalore	White	First	Individual	1462 cc	103 bhp @ 6000 rpm	138 Nm @ 4400 rpm	FWD	3995.0	1790.0	1640.0	5.0	48.0
+2053	Maruti Suzuki	Ritz Vxi (ABS) BS-IV	245000	2014	79000	Petrol	Manual	Faridabad	White	Second	Individual	1197 cc	85 bhp @ 6000 rpm	113 Nm @ 4500 rpm	FWD	3775.0	1680.0	1620.0	5.0	43.0
+2055	Hyundai	Eon D-Lite +	275000	2014	83000	Petrol	Manual	Ahmedabad	White	Second	Individual	814 cc	55 bhp @ 5500 rpm	75 Nm @ 4000 rpm	FWD	3495.0	1550.0	1500.0	5.0	32.0
+2056	Ford	Figo Duratec Petrol ZXI 1.2	240000	2013	73000	Petrol	Manual	Thane	Silver	First	Individual	1196 cc	70 bhp @ 6250 rpm	102 Nm @ 4000 rpm	FWD	3795.0	1680.0	1427.0	5.0	45.0
